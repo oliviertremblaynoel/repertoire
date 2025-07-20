@@ -1,7 +1,10 @@
+# Répertoire de chanson
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Répertoire](#r%C3%A9pertoire)
+- [Répertoire 2](#r%C3%A9pertoire-2)
 - [KARKWA](#karkwa)
   - [LE PYROMANE](#le-pyromane)
 - [PHIL BRACH](#phil-brach)
@@ -24,10 +27,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Répertoire 
-Oh Hi
-# Répertoire 2
-Oh Hi
 # KARKWA
 ## LE PYROMANE
 ```
