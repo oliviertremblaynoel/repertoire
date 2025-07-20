@@ -1,4 +1,32 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Répertoire](#r%C3%A9pertoire)
+- [KARKWA](#karkwa)
+  - [LE PYROMANE](#le-pyromane)
+- [PHIL BRACH](#phil-brach)
+  - [CRYSTEL](#crystel)
+- [LOUIS-JEAN CORMIER](#louis-jean-cormier)
+  - [L’ASCENSEUR](#lascenseur)
+- [DANIEL BÉLANGER](#daniel-b%C3%89langer)
+  - [SÈCHES TES PLEURS](#s%C3%88ches-tes-pleurs)
+  - [DEUX PRINTEMPS](#deux-printemps)
+  - [JOLI CAHOS](#joli-cahos)
+- [JEAN LELOUP](#jean-leloup)
+  - [ISABELLE](#isabelle)
+  - [WILLIE](#willie)
+- [COLOCS](#colocs)
+  - [JUSTE UNE PETITE NUITE](#juste-une-petite-nuite)
+  - [DÉDÉ](#d%C3%89d%C3%89)
+- [ELBOW](#elbow)
+  - [THE BONES OF YOU](#the-bones-of-you)
+  - [The Fix](#the-fix)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Répertoire 
+Oh Hi
+# Répertoire 2
 Oh Hi
 # KARKWA
 ## LE PYROMANE
