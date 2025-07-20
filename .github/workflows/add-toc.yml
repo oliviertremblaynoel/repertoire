@@ -1,32 +1,17 @@
-name: Auto-generate TOC in README
+name: Pre-commit CI
 on:
   push:
-    branches: [main]
 jobs:
-  generate-toc:
+  pre-commit:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          node-version: "20"
-      - name: Install doctoc
-        run: npm install -g doctoc
-      - name: Generate TOC
-        run: doctoc README.md --maxlevel 3 --notitle
-      - name: Push TOC changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.name "gha-agent"
-          git config user.email "gha-agent"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
-          if [[ `git status --porcelain` ]]; then
-            git add README.md
-            git commit -m "Update TOC in README.md"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          python-version: "3.11"
+      - name: Install pre-commit
+        run: pip install pre-commit
+      - name: Run pre-commit hooks
+        run: pre-commit run --all-files

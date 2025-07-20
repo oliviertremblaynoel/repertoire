@@ -1,200 +1,31 @@
 # Répertoire de chanson
 
+## Table des matières
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [KARKWA](#karkwa)
-  - [LE PYROMANE](#le-pyromane)
-- [PHIL BRACH](#phil-brach)
-  - [CRYSTEL](#crystel)
-- [LOUIS-JEAN CORMIER](#louis-jean-cormier)
-  - [L’ASCENSEUR](#lascenseur)
+- [COLOCS](#colocs)
+  - [JUSTE UNE PETITE NUITE](#juste-une-petite-nuite)
+  - [DÉDÉ](#d%C3%89d%C3%89)
 - [DANIEL BÉLANGER](#daniel-b%C3%89langer)
   - [SÈCHES TES PLEURS](#s%C3%88ches-tes-pleurs)
   - [DEUX PRINTEMPS](#deux-printemps)
   - [JOLI CAHOS](#joli-cahos)
-- [JEAN LELOUP](#jean-leloup)
-  - [ISABELLE](#isabelle)
-  - [WILLIE](#willie)
-- [COLOCS](#colocs)
-  - [JUSTE UNE PETITE NUITE](#juste-une-petite-nuite)
-  - [DÉDÉ](#d%C3%89d%C3%89)
 - [ELBOW](#elbow)
   - [THE BONES OF YOU](#the-bones-of-you)
   - [The Fix](#the-fix)
+- [JEAN LELOUP](#jean-leloup)
+  - [ISABELLE](#isabelle)
+  - [WILLIE](#willie)
+- [KARKWA](#karkwa)
+  - [LE PYROMANE](#le-pyromane)
+- [LOUIS-JEAN CORMIER](#louis-jean-cormier)
+  - [L’ASCENSEUR](#lascenseur)
+- [PHIL BRACH](#phil-brach)
+  - [CRYSTEL](#crystel)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## KARKWA
-
-### LE PYROMANE
-
-```
-C         G    A             E
-Prends-le pas, prends-le pas mal
-Je suis creux dans la spirale
-Abus de butane, vapeurs de kérosène
-Pyromane jusqu'au fond des veines
-Coup d'éclat, le dernier appel
-Sur le toit de la chapelle
-J'ouvrirai les gaz et traverserai les flammes
-Dans l'extase, l'odeur du drame
-Dm               F       Bb                F
-Lumière bleue de février sur tes larmes de cire
-Figée devant le brasier, nu-pieds dans le givre
-Tu prieras pour que toutes mes veines se rallument encore
-Tu pourras dire que je t'aime, que je t'aime
-à mort, à mort
-Rouge démon, rouge mercure
-Deux tisons dans ma figure
-Tu éteins mes rages, me sors de l'entonnoir
-Tu éclaires mes idées noires, tu m'éclaires
-Lumière bleue de février sur tes larmes de cire
-Figée devant le brasier, nu-pieds dans le givre
-Tu prieras pour que toutes mes veines se rallument encore
-Tu pourras dire que je t'aime, que je t'aime à mort
-Tu prieras pour que toutes mes veines se rallument encore
-Tu pourras dire que je t'aime, que je t'aime à mort, à mort
-```
-
-## PHIL BRACH
-
-### CRYSTEL
-
-```
-Capo:2nd fret
-Intro: Em Emmaj7 Em7 Em6 C Bm11 A7 A7sus A7
-       Em Emmaj7 Em7 Em6 C Bm11 A7 A7sus A7
-Em Emmaj7   Em7
-   Crystel
-Em6           C              Bm11
-Tu reviens toujours au moment
-A7   A7sus      A7
-où j’t’espérais pus
-Tes ailes
-Au premier battement sont venues boucher ma vue
-C        D
-Mais moi, entre deux buvards
-Em Emmaj7 Em7 Em6
-C                   D
-    Pour passer le temps, ben j’t’attends plus fort
-Em Emmaj7 Em7 Em6
-C                    D
-   En souhaitant que ta silhouette s’évapore
-Em               A              Am
-       Parmi les enfants sourds pis les rois morts
-                    G                           F#
-Qui volent dans ton sang, J’te retrouve tout le temps
-
-Dans mon angle mort
-Tes yeux
-ne vieilliront jamais
-Mes mains
-s’éloignent à chaque essai
-Mais toi, pendant que tu dors
-Le sommeil te berce, y te garde le phare
-Entre tes deux oreilles même pas l’ombre d’un remords         Malgré les faux clins d’oeil, les shots de fort
-Dans mon inconscient
-Tu flottes tout le temps
-Dans mon angle mort
-```
-
-## LOUIS-JEAN CORMIER
-
-### L’ASCENSEUR
-
-```
-TODO
-```
-
-## DANIEL BÉLANGER
-
-### SÈCHES TES PLEURS
-
-```
-TODO
-```
-
-### DEUX PRINTEMPS
-
-```
-Ses yeux sont deux printemps
-Qui me font sourire et ça me fait rire
-Ses joues sont des torrents
-Les miennes s'y baignent mais encore pire
-Son coeur est une fête
-Le mien ne veut plus en sortir
-Elle est la plus belle saison de ma vie
-La plus belle saison de ma vie
-
-C'est un tourbillon, un grand vertige
-Complètement doux
-On dit qu'en haute voltige
-On peut tomber et se rompre le cou
-C'est pas mon premier vol
-Arrêtez bande de jaloux
-C'est la plus belle saison de ma vie
-
-La plus belle saison de ma vie
-
-Nos heures sont des rivières
-Qui courent en une folle frénésie
-L'amour est liquide clair
-Et nos deux corps sont amphibies
-La terre est un brasier
-Mais pour un moment l'oublier
-C'est la plus belle saison de ma vie
-La plus belle saison de ma vie
-
-Qu'elle ne plaise à personne
-Ni du visage ni de l'esprit
-Restez en votre automne
-L'été tout l'an me fait plus envie
-Persuadez-vous de mes deux yeux fermés
-J'affirme en toute cécité
-T'es la plus belle saison de ma vie
-
-La plus belle saison de ma vie
-
-Y a toujours des noirceurs
-Pour assombrir quelques beautés
-Des êtres qui ont peur
-Qui veulent vous en contaminer
-Me protéger des loups?
-Moi qui n'en compte que des amis!
-T'es la plus belle saison de ma vie
-T'es la plus belle saison de ma vie
-
-Nous serons vieux et frêles
-Peut-être même séparés
-Nos têtes pêle-mêle
-Incapables et usées
-Mais aujourd'hui je t'aime
-Aujourd'hui pour l'éternité
-T'es la plus belle saison de ma vie
-
-La plus belle saison de ma vie
-```
-
-### JOLI CAHOS
-
-```
-TODO
-```
-
-## JEAN LELOUP
-
-### ISABELLE
-
-```
-TODO
-```
-
-### WILLIE
-
-```
-TODO
-```
 
 ## COLOCS
 
@@ -284,6 +115,81 @@ Dis-moi comment tu fais pour endurer tout ça!
 Dis-moi qu'est-ce que j'peux faire pour te venir en aide!
 Chasser les démons qui rentrent dans ta tête!
 Hé!
+```
+
+## DANIEL BÉLANGER
+
+### SÈCHES TES PLEURS
+
+```
+TODO
+```
+
+### DEUX PRINTEMPS
+
+```
+Ses yeux sont deux printemps
+Qui me font sourire et ça me fait rire
+Ses joues sont des torrents
+Les miennes s'y baignent mais encore pire
+Son coeur est une fête
+Le mien ne veut plus en sortir
+Elle est la plus belle saison de ma vie
+La plus belle saison de ma vie
+
+C'est un tourbillon, un grand vertige
+Complètement doux
+On dit qu'en haute voltige
+On peut tomber et se rompre le cou
+C'est pas mon premier vol
+Arrêtez bande de jaloux
+C'est la plus belle saison de ma vie
+
+La plus belle saison de ma vie
+
+Nos heures sont des rivières
+Qui courent en une folle frénésie
+L'amour est liquide clair
+Et nos deux corps sont amphibies
+La terre est un brasier
+Mais pour un moment l'oublier
+C'est la plus belle saison de ma vie
+La plus belle saison de ma vie
+
+Qu'elle ne plaise à personne
+Ni du visage ni de l'esprit
+Restez en votre automne
+L'été tout l'an me fait plus envie
+Persuadez-vous de mes deux yeux fermés
+J'affirme en toute cécité
+T'es la plus belle saison de ma vie
+
+La plus belle saison de ma vie
+
+Y a toujours des noirceurs
+Pour assombrir quelques beautés
+Des êtres qui ont peur
+Qui veulent vous en contaminer
+Me protéger des loups?
+Moi qui n'en compte que des amis!
+T'es la plus belle saison de ma vie
+T'es la plus belle saison de ma vie
+
+Nous serons vieux et frêles
+Peut-être même séparés
+Nos têtes pêle-mêle
+Incapables et usées
+Mais aujourd'hui je t'aime
+Aujourd'hui pour l'éternité
+T'es la plus belle saison de ma vie
+
+La plus belle saison de ma vie
+```
+
+### JOLI CAHOS
+
+```
+TODO
 ```
 
 ## ELBOW
@@ -427,4 +333,100 @@ Cause the fix, the fix is in
 | Fm     | Cm     | G/D    | G/D    |
 | G      | G      | n.C.   |
 | Cm     |
+```
+
+## JEAN LELOUP
+
+### ISABELLE
+
+```
+TODO
+```
+
+### WILLIE
+
+```
+TODO
+```
+
+## KARKWA
+
+### LE PYROMANE
+
+```
+C         G    A             E
+Prends-le pas, prends-le pas mal
+Je suis creux dans la spirale
+Abus de butane, vapeurs de kérosène
+Pyromane jusqu'au fond des veines
+Coup d'éclat, le dernier appel
+Sur le toit de la chapelle
+J'ouvrirai les gaz et traverserai les flammes
+Dans l'extase, l'odeur du drame
+Dm               F       Bb                F
+Lumière bleue de février sur tes larmes de cire
+Figée devant le brasier, nu-pieds dans le givre
+Tu prieras pour que toutes mes veines se rallument encore
+Tu pourras dire que je t'aime, que je t'aime
+à mort, à mort
+Rouge démon, rouge mercure
+Deux tisons dans ma figure
+Tu éteins mes rages, me sors de l'entonnoir
+Tu éclaires mes idées noires, tu m'éclaires
+Lumière bleue de février sur tes larmes de cire
+Figée devant le brasier, nu-pieds dans le givre
+Tu prieras pour que toutes mes veines se rallument encore
+Tu pourras dire que je t'aime, que je t'aime à mort
+Tu prieras pour que toutes mes veines se rallument encore
+Tu pourras dire que je t'aime, que je t'aime à mort, à mort
+```
+
+## LOUIS-JEAN CORMIER
+
+### L’ASCENSEUR
+
+```
+TODO
+```
+
+## PHIL BRACH
+
+### CRYSTEL
+
+```
+Capo:2nd fret
+Intro: Em Emmaj7 Em7 Em6 C Bm11 A7 A7sus A7
+       Em Emmaj7 Em7 Em6 C Bm11 A7 A7sus A7
+Em Emmaj7   Em7
+   Crystel
+Em6           C              Bm11
+Tu reviens toujours au moment
+A7   A7sus      A7
+où j’t’espérais pus
+Tes ailes
+Au premier battement sont venues boucher ma vue
+C        D
+Mais moi, entre deux buvards
+Em Emmaj7 Em7 Em6
+C                   D
+    Pour passer le temps, ben j’t’attends plus fort
+Em Emmaj7 Em7 Em6
+C                    D
+   En souhaitant que ta silhouette s’évapore
+Em               A              Am
+       Parmi les enfants sourds pis les rois morts
+                    G                           F#
+Qui volent dans ton sang, J’te retrouve tout le temps
+
+Dans mon angle mort
+Tes yeux
+ne vieilliront jamais
+Mes mains
+s’éloignent à chaque essai
+Mais toi, pendant que tu dors
+Le sommeil te berce, y te garde le phare
+Entre tes deux oreilles même pas l’ombre d’un remords         Malgré les faux clins d’oeil, les shots de fort
+Dans mon inconscient
+Tu flottes tout le temps
+Dans mon angle mort
 ```
