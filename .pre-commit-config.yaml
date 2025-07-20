@@ -1,9 +1,16 @@
 repos:
   - repo: local
     hooks:
+      - id: doctoc-docker
+        name: doctoc via Docker
+        entry: docker run --rm -v /home/albus/docker/public-repos/repertoire:/app -w /app node:20 npx doctoc --maxlevel 3 --notitle
+        language: system
+        types: [markdown]
+        files: ^README\.md$
+
       - id: prettier-docker
         name: Prettier via Docker
-        entry: docker run --rm -v "/home/albus/docker/public-repos/repertoire:/app" -w /app node:20 npx prettier --write .
+        entry: docker run --rm -v /home/albus/docker/public-repos/repertoire:/app -w /app node:20 npx prettier --write .
         language: system
         types: [markdown]
         files: \.md$
