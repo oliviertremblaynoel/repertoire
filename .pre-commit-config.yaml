@@ -1,0 +1,10 @@
+repos:
+  - repo: local
+    hooks:
+      - id: prettier-docker
+        name: Prettier via Docker
+        entry: docker run --rm -v "/home/albus/docker/public-repos/repertoire:/app" -w /app node:20 npx prettier --write .
+        language: system
+        types: [markdown]
+        files: \.md$
+        pass_filenames: false

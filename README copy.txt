@@ -1,15 +1,32 @@
-# Répertoire 
-## Table of Contents
+# Répertoire de chanson
 
-- [TEST1](#karkwa)
-- [TEST2](#le pyromane)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-# KARKWA
-## LE PYROMANE
+- [KARKWA](#karkwa)
+  - [LE PYROMANE](#le-pyromane)
+- [PHIL BRACH](#phil-brach)
+  - [CRYSTEL](#crystel)
+- [LOUIS-JEAN CORMIER](#louis-jean-cormier)
+  - [L’ASCENSEUR](#lascenseur)
+- [DANIEL BÉLANGER](#daniel-b%C3%89langer)
+  - [SÈCHES TES PLEURS](#s%C3%88ches-tes-pleurs)
+  - [DEUX PRINTEMPS](#deux-printemps)
+  - [JOLI CAHOS](#joli-cahos)
+- [JEAN LELOUP](#jean-leloup)
+  - [ISABELLE](#isabelle)
+  - [WILLIE](#willie)
+- [COLOCS](#colocs)
+  - [JUSTE UNE PETITE NUITE](#juste-une-petite-nuite)
+  - [DÉDÉ](#d%C3%89d%C3%89)
+- [ELBOW](#elbow)
+  - [THE BONES OF YOU](#the-bones-of-you)
+  - [The Fix](#the-fix)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## KARKWA
+### LE PYROMANE
 ```
 C         G    A             E
 Prends-le pas, prends-le pas mal  
@@ -37,8 +54,8 @@ Tu pourras dire que je t'aime, que je t'aime à mort
 Tu prieras pour que toutes mes veines se rallument encore  
 Tu pourras dire que je t'aime, que je t'aime à mort, à mort
 ```
-# PHIL BRACH
-## CRYSTEL
+## PHIL BRACH
+### CRYSTEL
 Capo:2nd fret
 Intro: Em Emmaj7 Em7 Em6 C Bm11 A7 A7sus A7
        Em Emmaj7 Em7 Em6 C Bm11 A7 A7sus A7
@@ -74,11 +91,11 @@ Entre tes deux oreilles même pas l’ombre d’un remords         Malgré les f
 Dans mon inconscient
 Tu flottes tout le temps
 Dans mon angle mort   `
-# LOUIS-JEAN CORMIER
-## L’ASCENSEUR
-# DANIEL BÉLANGER
-## SÈCHES TES PLEURS
-## DEUX PRINTEMPS
+## LOUIS-JEAN CORMIER
+### L’ASCENSEUR
+## DANIEL BÉLANGER
+### SÈCHES TES PLEURS
+### DEUX PRINTEMPS
 Ses yeux sont deux printemps  
 Qui me font sourire et ça me fait rire  
 Ses joues sont des torrents  
@@ -136,13 +153,13 @@ T'es la plus belle saison de ma vie
 
 La plus belle saison de ma vie
 
-## JOLI CAHOS
-# JEAN LELOUP
-## ISABELLE
-## WILLIE
-# COLOCS
-## JUSTE UNE PETITE NUITE
-## DÉDÉ
+### JOLI CAHOS
+## JEAN LELOUP
+### ISABELLE
+### WILLIE
+## COLOCS
+### JUSTE UNE PETITE NUITE
+### DÉDÉ
 \[Couplet 1\]
 
  |G7  | C7 |G7  | C7 |G7  | C7 |D7C7| G7 |
@@ -221,8 +238,8 @@ Dis-moi qu'est-ce que j'peux faire pour te venir en aide!
 Chasser les démons qui rentrent dans ta tête!  
 Hé!
 
-# ELBOW
-## THE BONES OF YOU 
+## ELBOW
+### THE BONES OF YOU 
 CAPO 3
 E7  (056400)
 A-6 (034200)
@@ -272,7 +289,8 @@ And it's you and it's me
 And we're sleeping through the day  
 And I'm five years ago  
 And three thousand miles away
-## The Fix
+
+### The Fix
 Cm (x02210)
 G  (022100)
 Fm (xx0231)
@@ -283,7 +301,7 @@ G|---2--------------------------------------------|
 D|------2-----------------------------------------|
 A|0--------3--2--0--2--3-----------2--0--2--3--0--|(x2)
 E|------------------------4--2--4-----------------|
-	
+        
 | Cm     | Cm     | G      | Cm     |
 | Cm     | Cm     | G      | Cm     |
  
