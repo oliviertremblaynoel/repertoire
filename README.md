@@ -20,13 +20,14 @@
   - [PAROLES](#paroles-5)
 - [KARKWA : LE PYROMANE](#karkwa--le-pyromane)
 - [PHIL BRACH : CRYSTEL](#phil-brach--crystel)
+- [GAINSBOURG : LA JAVANAISE](#gainsbourg--la-javanaise)
+  - [PAROLES](#paroles-6)
+- [GAINSBOURG : COULEUR CAFÉ](#gainsbourg--couleur-caf%C3%89)
 - [{TOADD} LOUIS-JEAN CORMIER : L’ASCENSEUR](#toadd-louis-jean-cormier--lascenseur)
 - [TODO DANIEL BÉLANGER : JOLI CAHOS](#todo-daniel-b%C3%89langer--joli-cahos)
 - [TODO DANIEL BÉLANGER : Intouchable et immortel](#todo-daniel-b%C3%89langer--intouchable-et-immortel)
 - [TODO DANIEL BÉLANGER : La folie en quatre](#todo-daniel-b%C3%89langer--la-folie-en-quatre)
   - [TODO JEAN LELOUP : WILLIE](#todo-jean-leloup--willie)
-- [TODO GAINSBOURG : LA JAVANAISE](#todo-gainsbourg--la-javanaise)
-- [TODO GAINSBOURG : COULEUR CAFÉ](#todo-gainsbourg--couleur-caf%C3%89)
 - [TODO VIGNAULT : GENS DU PAYS](#todo-vignault--gens-du-pays)
 - [TODO PIERRE LAPOINTE : DE GLACE](#todo-pierre-lapointe--de-glace)
 - [TODO ARIANE MOFFAT : JE RETOURNE À MONTRÉAL](#todo-ariane-moffat--je-retourne-%C3%80-montr%C3%89al)
@@ -1371,6 +1372,128 @@ Tu flottes tout le temps
 Dans mon angle mort
 ```
 
+## GAINSBOURG : LA JAVANAISE
+
+```
+NO CAPO
+A     (002220)
+Amaj7 (002120)
+Bm    (002120)
+E     (022100)
+E6    (022120)
+
+[V1]
+   A                       Amaj7
+J'avoue, j'en ai bavé, pas vous,
+    Bm
+mon amour
+ E                       E6
+Avant d'avoir eu vent de vous,
+    A
+mon amour
+
+[C1]
+A7    (002020)
+D     (x00232)
+C#    (446664)
+C#7   (446464)
+F#m   (244222)
+Dm    (x00231)
+F#7   (242322)
+B7    (224242)
+
+A  A7     D
+Ne vous déplaise
+C#         C#7    F#m
+En dansant la javanaise
+D    Dm     A
+Nous nous aimions
+F#7
+Le temps d'une chanson
+
+[V2]
+À votre avis, qu'avons-nous vu
+de l'amour?
+De vous à moi, vous m'avez eu,
+mon amour
+
+[C2]
+Ne vous déplaise
+En dansant la javanaise
+Nous nous aimions
+Le temps d'une chanson
+
+[V3]
+Hélas, avril, en vain,
+me voue à l'amour
+J'avais envie de voir en vous
+cet amour
+
+[C3]
+Ne vous déplaise
+En dansant la javanaise
+Nous nous aimions
+Le temps d'une chanson
+
+[V4]
+La vie ne vaut d'être vécue
+sans amour
+Mais c'est vous qui l'avez voulu,
+mon amour
+
+[C4]
+Ne vous déplaise
+En dansant la javanaise
+Nous nous aimions
+Le temps d'une chanson
+```
+
+### PAROLES
+
+```
+J'avoue, j'en ai bavé, pas vous,
+mon amour
+Avant d'avoir eu vent de vous,
+mon amour
+
+Ne vous déplaise
+En dansant la javanaise
+Nous nous aimions
+Le temps d'une chanson
+
+À votre avis, qu'avons-nous vu
+de l'amour?
+De vous à moi, vous m'avez eu,
+mon amour
+
+Ne vous déplaise
+En dansant la javanaise
+Nous nous aimions
+Le temps d'une chanson
+
+Hélas, avril, en vain,
+me voue à l'amour
+J'avais envie de voir en vous
+cet amour
+
+Ne vous déplaise
+En dansant la javanaise
+Nous nous aimions
+Le temps d'une chanson
+
+La vie ne vaut d'être vécue
+sans amour
+Mais c'est vous qui l'avez voulu,
+mon amour
+
+Ne vous déplaise
+En dansant la javanaise
+Nous nous aimions
+Le temps d'une chanson
+```
+
+## GAINSBOURG : COULEUR CAFÉ
+
 ## {TOADD} LOUIS-JEAN CORMIER : L’ASCENSEUR
 
 ```
@@ -1400,10 +1523,6 @@ todo
 ```
 TODO
 ```
-
-## TODO GAINSBOURG : LA JAVANAISE
-
-## TODO GAINSBOURG : COULEUR CAFÉ
 
 ## TODO VIGNAULT : GENS DU PAYS
 
