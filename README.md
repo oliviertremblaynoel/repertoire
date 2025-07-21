@@ -27,9 +27,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## COLOCS
-
-### DÉDÉ
+## LES COLOCS : DÉDÉ
 
 ```
 [V1]
@@ -131,7 +129,7 @@ Chasser les démons qui rentrent dans ta tête!
 Hé!
 ```
 
-### JUSTE UNE PETITE NUITE
+## LES COLOCS : JUSTE UNE PETITE NUITE
 
 ```
 Em  (779987)
@@ -212,9 +210,7 @@ fais-moé accroire que chu pas clairé
 |B |Em |
 ```
 
-## DANIEL BÉLANGER
-
-### SÈCHES TES PLEURS
+## DANIEL BÉLANGER : SÈCHES TES PLEURS
 
 ```
 CAPO 2
@@ -325,71 +321,166 @@ Sèche tes pleurs ma sœur
 Gmaj7 (100230)
 ```
 
-### DEUX PRINTEMPS
+## DANIEL BÉLANGER : LES DEUX PRINTEMPS
 
 ```
-Ses yeux sont deux printemps
-Qui me font sourire et ça me fait rire
-Ses joues sont des torrents
-Les miennes s'y baignent mais encore pire
-Son coeur est une fête
-Le mien ne veut plus en sortir
-Elle est la plus belle saison de ma vie
-La plus belle saison de ma vie
+NO CAPO
 
-C'est un tourbillon, un grand vertige
-Complètement doux
+Am        (x02210)
+Ammaj7    (x02110)
+Baug      (x0100x)
+B7        (x21202)
+Em        (022000)
+Emmaj7    (021000)
+Em/C#     (042000)
+F#7       (242322)
+Bm        (x24432)
+F#        (244322)
+G         (320003)
+D         (x00232)
+A         (002220)
+E         (022100)
+Esus4     (022200)
+
+[V1]
+    Am               Ammaj7
+Ses yeux sont deux printemps qui me font
+Baug                  B7
+sourire et ça me fait rire
+    Em               Emmaj7
+Ses joues sont des torrents,
+                Em/C#                F#7
+les miennes s'y baignent mais encore pire
+    Bm            F#
+Son coeur est une fête,
+            G
+le mien ne veut plus en sortir
+[C1]
+         D                A         E
+Elle est la plus belle saison de ma vie,
+   G             D         E
+la plus belle saison de ma vie
+
+[V2]
+Am           Ammaj7
+C'est un tourbillon,
+            Baug              B7
+un grand vertige complètement doux
+   Em               Emmaj7
 On dit qu'en haute voltige
-On peut tomber et se rompre le cou
-C'est pas mon premier vol
-Arrêtez bande de jaloux
-C'est la plus belle saison de ma vie
+           Em/C#               F#7
+on peut tomber et se rompre le cou
+      Bm              F#
+C'est pas mon premier vol,
+        G
+arrêtez bande de jaloux
+[C2]
+       D                A        E
+C'est la plus belle saison de ma vie,
+   G             D         E
+la plus belle saison de ma vie
 
-La plus belle saison de ma vie
+[Instrumental]
+E  Esus4  E  Esus4
+E  Esus4  E  Esus4
+E  Esus4  E  Esus4
 
+[V3]
+     Am               Ammaj7
 Nos heures sont des rivières
-Qui courent en une folle frénésie
-L'amour est liquide clair
-Et nos deux corps sont amphibies
-La terre est un brasier
-Mais pour un moment l'oublier
-C'est la plus belle saison de ma vie
-La plus belle saison de ma vie
+               Baug           B7
+qui courent en une folle frénésie
+Em             Emmaj7
+   L'amour est liquide clair
+            Em/C#           F#7
+et nos deux corps sont amphibies
 
+Bm                 F#
+   La terre est un brasier,
+             G
+mais pour un moment l'oublier
+[C3]
+         D             A         E
+C'est la plus belle saison de ma vie,
+    G             D         E
+ la plus belle saison de ma vie
+
+[V4]
+        Am          Ammaj7
 Qu'elle ne plaise à personne
-Ni du visage ni de l'esprit
-Restez en votre automne
-L'été tout l'an me fait plus envie
+        Baug           B7
+ni de visage ni de l'esprit
+Em                  Emmaj7
+   Restez en votre automne,
+           Em/C#               F#7
+l'été tout l'an me fait plus envie
+    Bm                      F#
 Persuadez-vous de mes deux yeux fermés
-J'affirme en toute cécité
-T'es la plus belle saison de ma vie
+     G
+ j'affirme en toute cécité
+[C4]
+        D             A         E
+T'es la plus belle saison de ma vie,
+   G             D         E
+la plus belle saison de ma vie
 
-La plus belle saison de ma vie
+[Instrumental]
+E  Esus4  E  Esus4
+E  Esus4  E  Esus4
+E  Esus4  E  Esus4
 
+[V5]
+    Am           Ammaj7
 Y a toujours des noirceurs
-Pour assombrir quelques beautés
-Des êtres qui ont peur
-Qui veulent vous en contaminer
-Me protéger des loups?
+          Baug              B7
+pour assombrir quelques beautés
+Em                    Emmaj7
+    Des êtres qui ont peur,
+                 Em/C#     F#7
+qui veulent vous en contaminer
+Bm                  F#
+    Me protéger des loups?
+             G
 Moi qui n'en compte que des amis!
-T'es la plus belle saison de ma vie
-T'es la plus belle saison de ma vie
+[C5]
+        D             A         E
+T'es la plus belle saison de ma vie,
+        G             D         E
+t'es la plus belle saison de ma vie
 
-Nous serons vieux et frêles
-Peut-être même séparés
-Nos têtes pêle-mêle
-Incapables et usées
-Mais aujourd'hui je t'aime
-Aujourd'hui pour l'éternité
-T'es la plus belle saison de ma vie
+[V6]
+     Am              Ammaj7
+Nous serons vieux et frêles,
+          Baug       B7
+peut-être même séparés
+Em                Emmaj7
+    Nos têtes pêle-mêle,
+    Em/C#       F#7
+incapables et usées
+     G                     D
+Mais aujourd'hui je t'aime,
+            Asus4
+aujourd'hui pour l'éternité
+[C6]
+        G             D         E
+T'es la plus belle saison de ma vie,
+   G             D         E
+la plus belle saison de ma vie
 
-La plus belle saison de ma vie
+[Instrumental]
+E  Esus4  E  Esus4
+E  Esus4  E  Esus4
+E  Esus4  E  Esus4
+
+[Outro]
+G  D  E
+G  D  E
 ```
 
-### JOLI CAHOS
+## DANIEL BÉLANGER : JOLI CAHOS
 
 ```
-TODO
+todo
 ```
 
 ## ELBOW
