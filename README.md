@@ -43,22 +43,36 @@ C7  (x3231x)
 D7  (x5453x)
 Db7 (x4342x)
 
-      G7                            C7
-Juste en bas d'chez moi, sur la rue Mont-Royal
-G7                            C7
-Y a un p'tit gars, y'a pas d'bicycle
-G7                            C7
-Mais y'a une mère, mais c'est pas sa mère
-        D7       Db7 C7    G7
-Pis son père, c't'un alcoolique
+      G7
+Juste en bas d'chez moi,
+           C7
+sur la rue Mont-Royal
+G7
+Y a un p'tit gars,
+          C7
+y'a pas d'bicycle
+G7
+Mais y'a une mère,
+           C7
+mais c'est pas sa mère
+        D7
+Pis son père,
+Db7    C7    G7
+c't'un alcoolique
 C'est classique
 
-      G7                              C7
-Des fois y'a l'aut' mère, qui est pas plus sa mère
-  G7                         C7
-A vient l'chercher, ça fait du bruit!
-G7                         C7
-D'ailleurs le bruit, c'est toute sa vie
+      G7
+Des fois y'a l'aut' mère,
+            C7
+qui est pas plus sa mère
+  G7
+A vient l'chercher,
+        C7
+ça fait du bruit!
+G7
+  D'ailleurs le bruit,
+      C7
+c'est toute sa vie
 D7 Db7 C7    G7
 À part la folie
 
@@ -71,11 +85,14 @@ D7  (x00212)
 Wô! Wô! Wô! Dédé
 Dédé, Dédé, Dédé!
     E7
-Dis-moi comment tu fais pour endurer tout ça!
+Dis-moi comment tu fais
+pour endurer tout ça!
     A7
-Dis-moi qu'est-ce que j'peux faire pour te venir en aide!
+Dis-moi qu'est-ce que j'peux faire
+pour te venir en aide!
 D7
-Chasser les démons qui rentrent dans ta tête!
+Chasser les démons
+qui rentrent dans ta tête!
 Hé!
 
 |G7 |C7 |G7         |C7 |
@@ -87,7 +104,8 @@ J'entends des cris: "Dédé vient icitte!"
 J'pense que Dédé c't'un fils de putain
 On l'traite comme un chien!
 
-Et pis y à l'autre saoulon, qui gueule après lui
+Et pis y à l'autre saoulon,
+qui gueule après lui
 Une chance qu'y est pas là l'après-midi!
 Ça fait qu'Dédé va jouer dans ruelle
 Avec les poubelles
@@ -95,9 +113,12 @@ Avec les poubelles
 [C2]
 Wô! Wô! Wô! Dédé
 Dédé, Dédé, Dédé!
-Dis-moi comment tu fais pour endurer tout ça!
-Dis-moi qu'est-ce que j'peux faire pour te venir en aide!
-Chasser les démons qui rentrent dans ta tête!
+Dis-moi comment tu fais
+pour endurer tout ça!
+Dis-moi qu'est-ce que j'peux faire
+pour te venir en aide!
+Chasser les démons
+qui rentrent dans ta tête!
 Hé!
 
 [Bridge instrumental]
@@ -112,17 +133,23 @@ Eb7 (x6564x)
 Ah! Le soir venu, quand Dédé est couché
 A7                        D7
 Le bruit est parti, y vit sa vie
-A7                            D7
-Entre deux couvertes, pis son vieux toutou
+A7
+Entre deux couvertes,
+        D7
+pis son vieux toutou
 E7 Eb7  D7        A7
 Enfin l'monde est doux!
 
-      G7                  C7
-D'un rêve à l'autre, y patine y s'amuse
+      G7
+D'un rêve à l'autre,
+              C7
+y patine y s'amuse
 G7                  C7
 Y danse, y rit avec ses chums
-          G7                         C7
-Y vole au-dessus d'la ville avec les éléphants
+          G7
+Y vole au-dessus d'la ville
+         C7
+avec les éléphants
 D7 Db7 C7    G7
 Enfin y a du fun
 Hé!
@@ -130,9 +157,12 @@ Hé!
 [C3]
 Wô! Wô! Wô! Dédé
 Dédé, Dédé, Dédé!
-Dis-moi comment tu fais pour endurer tout ça!
-Dis-moi qu'est-ce que j'peux faire pour te venir en aide!
-Chasser les démons qui rentrent dans ta tête!
+Dis-moi comment tu fais
+pour endurer tout ça!
+Dis-moi qu'est-ce que j'peux faire
+ pour te venir en aide!
+Chasser les démons
+qui rentrent dans ta tête!
 Hé!
 ```
 
@@ -141,22 +171,30 @@ Hé!
 ```
 Juste en bas d'chez moi
 Sur la rue Mont-Royal
-Y a un p'tit gars, y a pas d'bécique
-Mais y a une mère, mais c'est pas sa mère
-Pis son père, c't'un alcoolique
+Y a un p'tit gars,
+y a pas d'bécique
+Mais y a une mère,
+mais c'est pas sa mère
+Pis son père,
+c't'un alcoolique
 C'est classique
 
 Des fois, y a l'aut'mère
 Qu'y est pas plus sa mère
-A vient l'chercher, ça fait du bruit
-D'ailleurs, le bruit, c'est toute sa vie
+A vient l'chercher,
+ça fait du bruit
+D'ailleurs, le bruit,
+c'est toute sa vie
 À part la folie
 
 Wo! Wo! Wo! Dédé
 Dédé, Dédé, Dédé
-Dis-moi comment tu fais pour endurer tout ça
-Dis-moi qu'est-ce que j'peux faire pour te venir en aide
-Chasser les démons qui rentrent dans ta tête
+Dis-moi comment tu fais
+pour endurer tout ça
+Dis-moi qu'est-ce que j'peux faire
+pour te venir en aide
+Chasser les démons
+qui rentrent dans ta tête
 
 Oh, tous les jours
 À sept heures du matin
@@ -172,9 +210,12 @@ Avec les poubelles
 
 Wo! Wo! Wo! Dédé
 Dédé, Dédé, Dédé
-Dis-moi comment tu fais pour endurer tout ça
-Dis-moi qu'est-ce que j'peux faire pour te venir en aide
-Chasser les démons qui rentrent dans ta tête (hé!)
+Dis-moi comment tu fais
+pour endurer tout ça
+Dis-moi qu'est-ce que j'peux faire
+pour te venir en aide
+Chasser les démons
+qui rentrent dans ta tête (hé!)
 
 Ah, le soir venu quand Dédé est couché
 Le bruit est parti, y vit sa vie
@@ -184,14 +225,18 @@ Enfin l'monde est doux
 Ah, d'un rêve à l'autre
 Y patine, y s'amuse
 Y danse, y rit avec ses chums
-Y vole au-dessus d'la ville avec les éléphants
+Y vole au-dessus d'la ville
+avec les éléphants
 Enfin y a du fun, hé!
 
 Wo! Wo! Dédé
 Dédé, Dédé, Dédé
-Dis-moi comment tu fais pour endurer tout ça
-Dis-moi qu'est-ce que j'peux faire pour te venir en aide
-Chasser les démons qui rentrent dans ta tête?
+Dis-moi comment tu fais
+pour endurer tout ça
+Dis-moi qu'est-ce que j'peux faire
+pour te venir en aide
+Chasser les démons
+qui rentrent dans ta tête?
 ```
 
 ## LES COLOCS : JUSTE UNE PETITE NUITE
@@ -208,30 +253,40 @@ E|-----7-6-5-3-0---|
 
 |Em |Em |Em |Em |
 [V1]
-                    Em
-J'sais ben qu't'étais pas faite pour moé
-Mais j'm'ennuie pareil, as-tu compris?
-J'm'ennuie d'tes cuisses, j'm'ennuie d'tes seins
-J'm'ennuie d'tes yeux, t'ennuies-tu des miens?
+J'sais ben qu't'étais
+pas faite pour moé
+Mais j'm'ennuie pareil,
+as-tu compris?
+J'm'ennuie d'tes cuisses,
+j'm'ennuie d'tes seins
+J'm'ennuie d'tes yeux,
+t'ennuies-tu des miens?
 
 [C1]
 Am
-J'sais ben, j'sais ben, dis-moé le pu
+J'sais ben, j'sais ben,
+dis-moé le pu
             Em
-J'étais pas fait pour toé non plus
-                  C
+J'étais pas fait
+pour toé non plus
+                 C
 T'es faite comme un ordinateur
-          B                               Em
-Sorry no compute, que c'est que j'fais ast'heure?
+          B
+Sorry no compute,
+    Em
+que c'est que j'fais ast'heure?
 
 |B |Em |
 
 [V2]
-              Em
-Câlisse reste donc, juste une 'tite nuite
-Pis on va s'aimer, jusqu'au matin
-T'es obligée d'partir, j'sais ben
-Mais t'es pas obligée d'partir toute suite
+Câlisse reste donc,
+juste une 'tite nuite
+Pis on va s'aimer,
+jusqu'au matin
+T'es obligée d'partir,
+j'sais ben
+Mais t'es pas obligée
+d'partir toute suite
 
 [C2]
 Am
@@ -240,8 +295,10 @@ On va s'rouler un gros pétard
 On va s'pèter la fiole en deux
               C7
 Tu vas m'dire "André y'est trop tard
-               B7           Em
-on peut être copain, si tu veux"
+               B7
+on peut être copain,
+      Em
+si tu veux"
 
 |B |Em | (Solo Harmonica)
 
@@ -252,15 +309,20 @@ On va s'rouler un gros pétard
 On va s'pèter la fiole en deux
               C7
 Tu vas m'dire "André y'est trop tard
-               B7            Em
-on peut être copain, si tu veux"
+               B7
+on peut être copain,
+       Em
+ si tu veux"
 
 |B |Em |
 
 [V3]
-Pis ça je l'sais, ça va m'faire chier
-Si c'est rien qu'copains, j'aime mieux tout seul
-Mais j't'orgueilleux quand j't'avec toé
+Pis ça je l'sais,
+ça va m'faire chier
+Si c'est rien qu'copains,
+j'aime mieux tout seul
+Mais j't'orgueilleux
+quand j't'avec toé
 Ça fait que j'vas fermer ma yeule
 
 Am
@@ -269,8 +331,10 @@ On va faire l'amour en silence
 Comme des amants un peu blasés
             C7
 Avant de m'donner mes vacances,
-            B7                    Em
-fais-moé accroire que chu pas clairé
+            B7
+fais-moé accroire
+                Em
+que chu pas clairé
 
 |B |Em |
 ```
@@ -278,37 +342,57 @@ fais-moé accroire que chu pas clairé
 ### PAROLES
 
 ```
-J'sais ben qu't'étais pas faite pour moé
-Mais j'm'ennuie pareil, as-tu compris?
-J'm'ennuie d'tes cuisses, j'm'ennuie d'tes seins
-J'm'ennuie d'tes yeux, t'ennuies-tu des miens?
+J'sais ben qu't'étais
+pas faite pour moé
+Mais j'm'ennuie pareil,
+as-tu compris?
+J'm'ennuie d'tes cuisses,
+j'm'ennuie d'tes seins
+J'm'ennuie d'tes yeux,
+t'ennuies-tu des miens?
 
-J'sais ben, j'sais ben, dis-moé le pu
-J'étais pas fait pour toé non plus
+J'sais ben, j'sais ben,
+dis-moé le pu
+J'étais pas fait
+pour toé non plus
 T'es faite comme un ordinateur
-Sorry no compute, que c'est que j'fais ast'heure?
+Sorry no compute,
+que c'est que j'fais ast'heure?
 
-Câlisse reste donc, juste une 'tite nuite
-Pis on va s'aimer, jusqu'au matin
-T'es obligée d'partir, j'sais ben
-Mais t'es pas obligée d'partir toute suite
+Câlisse reste donc,
+juste une 'tite nuite
+Pis on va s'aimer,
+jusqu'au matin
+T'es obligée d'partir,
+j'sais ben
+Mais t'es pas obligée
+d'partir toute suite
 
 On va s'rouler un gros pétard
 On va s'pèter la fiole en deux
-Tu vas m'dire "André y'est trop tard on peut être copain, si tu veux"
+Tu vas m'dire "André y'est trop tard
+on peut être copain,
+si tu veux"
 
 On va s'rouler un gros pétard
 On va s'pèter la fiole en deux
-Tu vas m'dire "André y'est trop tard on peut être copain, si tu veux"
+Tu vas m'dire "André y'est trop tard
+on peut être copain,
+si tu veux"
 
-Pis ça je l'sais, ça va m'faire chier
-Si c'est rien qu'copains, j'aime mieux tout seul
-Mais j't'orgueilleux quand j't'avec toé
+Pis ça je l'sais,
+ça va m'faire chier
+Si c'est rien qu'copains,
+j'aime mieux tout seul
+Mais j't'orgueilleux
+quand j't'avec toé
 Ça fait que j'vas fermer ma yeule
 
 On va faire l'amour en silence
 Comme des amants un peu blasés
-Avant de m'donner mes vacances, fais-moé accroire que chu pas clairé
+Avant de m'donner mes vacances,
+fais-moé accroire
+que chu pas clairé
 ```
 
 ## DANIEL BÉLANGER : SÈCHES TES PLEURS
@@ -358,6 +442,7 @@ Y'a 15 jours est parti
 Celui qu'elle voulait pour longtemps
 Est parti celui
 Dont elle souhaite la mort maintenant
+
 Qu'il crève, mieux, qu'il souffre
 Qu'une fille le largue par-dessus bord
 Que dans ses larmes comme moi s'étouffe
@@ -374,7 +459,9 @@ J't'en prie sèche tes pleurs
 À qui veut bien l'entendre
 Elle en dit du mal autant qu'elle peut
 Le con, le chien, l'salaud
-Pas de gentillesse, pas d'souvenir tendre
+Pas de gentillesse,
+pas d'souvenir tendre
+
 Et pleure et pleure encore
 Qu'avec toutes les larmes qui tombent
 J'ai pensé calmer mes remords
@@ -452,7 +539,8 @@ J't'en prie sèche tes pleurs
 À qui veut bien l'entendre
 Elle en dit du mal autant qu'elle peut
 Le con, le chien, l'salaud
-Pas de gentillesse, pas d'souvenir tendre
+Pas de gentillesse,
+pas d'souvenir tendre
 Et pleure et pleure encore
 Qu'avec toutes les larmes qui tombent
 J'ai pensé calmer mes remords
@@ -640,41 +728,60 @@ G  D  E
 ### PAROLES
 
 ```
-Ses yeux sont deux printemps qui m'font sourire et ça m'fait rire
-Ses joues sont des torrents, les miennes s'y baignent, mais encore pire
-Son coeur est une fête, le mien ne veut plus en sortir
+Ses yeux sont deux printemps
+qui m'font sourire et ça m'fait rire
+Ses joues sont des torrents,
+les miennes s'y baignent, mais encore pire
+Son coeur est une fête,
+le mien ne veut plus en sortir
+
 Elle est la plus belle saison de ma vie
 La plus belle saison de ma vie
 
-C'est un tourbillon, un grand vertige complètement doux
-On dit qu'en haute voltige on peut tomber et s'rompre le cou
-C'est pas mon premier vol, arrêtez, bande de jaloux
+C'est un tourbillon,
+un grand vertige complètement doux
+On dit qu'en haute voltige
+on peut tomber et s'rompre le cou
+C'est pas mon premier vol,
+arrêtez, bande de jaloux
 C'est la plus belle saison de ma vie
 La plus belle saison de ma vie
 
-Nos heures sont des rivières qui coulent en une folle frénésie
-L'amour est liquide clair et nos deux corps sont amphibies
-La Terre est un brasier, mais pour un moment l'oublier
+Nos heures sont des rivières
+qui coulent en une folle frénésie
+L'amour est liquide clair
+et nos deux corps sont amphibies
+La Terre est un brasier,
+mais pour un moment l'oublier
 C'est la plus belle saison de ma vie
 La plus belle saison de ma vie
 
-Qu'elle ne plaise à personne, ni du visage ni de l'esprit
-Restez en votre automne, l'été tout l'an me fait plus envie
-Persuadez-vous de mes deux yeux fermés, j'affirme en toute cécité
+Qu'elle ne plaise à personne,
+ni du visage ni de l'esprit
+Restez en votre automne,
+l'été tout l'an me fait plus envie
+Persuadez-vous de mes deux yeux fermés,
+j'affirme en toute cécité
 T'es la plus belle saison de ma vie
 La plus belle saison de ma vie
 
 Hé, na-na-na, na-na
 
-Oh! y a toujours des noirceurs pour assombrir quelques beautés
-Des êtres qui ont peur qui veulent vous en contaminer
-Me protéger des loups, moi qui n'en compte que des amis
+Oh! y a toujours des noirceurs
+pour assombrir quelques beautés
+Des êtres qui ont peur
+qui veulent vous en contaminer
+Me protéger des loups,
+moi qui n'en compte que des amis
 T'es la plus belle saison de ma vie
 T'es la plus belle saison de ma vie
 
-Nous serons vieux et frêles, peut-être même séparés
-Nos têtes pêle-mêle incapables et usées
-Mais aujourd'hui je t'aime, aujourd'hui pour l'éternité
+Nous serons vieux et frêles,
+peut-être même séparés
+Nos têtes pêle-mêle
+incapables et usées
+Mais aujourd'hui je t'aime,
+aujourd'hui pour l'éternité
 T'es la plus belle saison de ma vie
 La plus belle saison de ma vie
 
@@ -697,9 +804,12 @@ Overdraft speeches and deadlines to make
 Cramming commitments like cats in a sack
 Telephone burn and a purposeful gait
 
-When out of a doorway, the tentacles stretch
-Of a song that I know, and the world moves in slo-mo
-Straight to my head like the first cigarette of the day
+When out of a doorway,
+the tentacles stretch
+Of a song that I know,
+and the world moves in slo-mo
+Straight to my head
+like the first cigarette of the day
 
 And it's you, and it's me
 And we're sleeping through the day
@@ -707,14 +817,19 @@ And I'm five years ago
 And three thousand miles away
 
 Do I have time? A man of my caliber?
-Stood in the street like a sleepwalking teenager?
+Stood in the street
+like a sleepwalking teenager?
 No, and I dealt with this years ago
 I took a hammer to every memento
 
-But image on image like beads on a rosary
-Pull through my head as the music takes hold
-And the sickener hits, I could work 'til I break
-But I love the bones of you, that I will never escape
+But image on image
+like beads on a rosary
+Pull through my head
+as the music takes hold
+And the sickener hits,
+I could work 'til I break
+But I love the bones of you,
+that I will never escape
 
 And it's you, and it's me
 And we're sleeping through the day
@@ -745,29 +860,38 @@ Cm (x02210)
 G  (022100)
 Fm (xx0231)
 
-INTRO:	| Drums  | Drums  | Drums  | Drums  |
+INTRO:|Drums 4 bars|
 
-G|---2--------------------------------------------|
-D|------2-----------------------------------------|
-A|0--------3--2--0--2--3-----------2--0--2--3--0--|(x2)
-E|------------------------4--2--4-----------------|
+G|--2-----------------------------|
+D|----2---------------------------|
+A|0-----3-2-0-2-3-------2-0-2-3-0-|
+E|----------------4-2-4-----------|
+(x2)
 
-| Cm     | Cm     | G      | Cm     |
-| Cm     | Cm     | G      | Cm     |
+|Cm |Cm |G |Cm | (2x)
 
 [V1]
-        Cm                   G                       Cm
-The fix is in, there's a nag gonna dance home at Epsom
-                        G                    Cm
-The fix is in, can't wait to see how it upsets 'em
+        Cm
+The fix is in,
+          G                       Cm
+there's a nag gonna dance home at Epsom
+The fix is in,
+      G                    Cm
+can't wait to see how it upsets 'em
 
 [C1]
-Fm                        Cm
-Too many times we've been postally pipped
-        Fm                      Cm
-We've loaded the saddles, the mickeys are slipped
-        Fm                        Cm                        G
-We're swapping the turf for the sand and the surf and the sin
+Fm
+Too many times
+           Cm
+we've been postally pipped
+        Fm
+We've loaded the saddles,
+    Cm
+the mickeys are slipped
+        Fm
+We're swapping the turf
+        Cm                        G
+for the sand and the surf and the sin
             G             Cm
 Cause the fix, the fix is in
 
@@ -775,41 +899,62 @@ Cause the fix, the fix is in
 |(Cm)    | G      | Cm     | G      |
 
 [V2]
-    Cm             G                      Cm
-The fix is in, the odds that I got were delicious
-                    G                   Cm
-The fix is in, the jockey is cocky and vicious
+    Cm
+The fix is in,
+    G                      Cm
+the odds that I got were delicious
+The fix is in,
+    G                   Cm
+the jockey is cocky and vicious
 
 [C2]
-        Fm                      Cm
-The redoubtable beast has had pegasus pills
-        Fm                       Cm
-We'll buy him the patch in the Tuscany hills
-        Fm                Cm                   G/D
-And the Vino di Vici will flow like a river in spring
+        Fm
+The redoubtable beast
+        Cm
+has had pegasus pills
+        Fm
+We'll buy him the patch
+        Cm
+ in the Tuscany hills
+        Fm
+And the Vino di Vici
+     Cm                   G/D
+will flow like a river in spring
         G              (Cm)
 Now the fix, the fix is in
 
 [LINK 2]
 |(Cm)    | G      | Cm     | G      |
-| Cm     | G      | Cm     | G      | Cm (1) |
+| Cm     | G      | Cm     | G      |
+| Cm (1) |
 
 [SOLO]
 | Fm     | Cm     | Fm     | Cm     |
 | Fm     | Cm     | G/D    | G/D    |
 | G      | G      | n.C.   |
 [V3]
-    Cm             G                       Cm
-The fix is in, the snaps of the steward so candid
-                        G                    Cm
-The fix is in, yes our pigeons have finally landed
+    Cm
+The fix is in,
+    G                       Cm
+the snaps of the steward so candid
+The fix is in,
+        G                    Cm
+yes our pigeons have finally landed
 [C3]
-    Fm                   Cm
-The Donahue sisters will meet us in France
-    Fm                         Cm
-In penguins and pearls, we'll drink and we'll dance
-            Fm                        Cm                           G/D
-'Til the end of our days, cause it ain't left to chance that we win
+    Fm
+The Donahue sisters
+     Cm
+will meet us in France
+    Fm
+In penguins and pearls,
+      Cm
+we'll drink and we'll dance
+         Fm
+'Til the end of our days,
+         Cm
+cause it ain't left to chance
+        G/D
+that we win
             G              (Cm)
 Cause the fix, the fix is in
 
@@ -817,7 +962,8 @@ Cause the fix, the fix is in
 |(Cm)    | G      | Cm     | G      |
 | Cm     | G      | Cm     | G      |
 | Cm     | G      | Cm     | G      |
-| Cm     | G      | Cm     | G      | Cm (1) |
+| Cm     | G      | Cm     | G      |
+| Cm (1) |
 [OUTRO]
 | Fm     | Cm     | Fm     | Cm     |
 | Fm     | Cm     | G/D    | G/D    |
@@ -833,9 +979,12 @@ There's a nag gonna dance home at Epsom
 The fix is in
 Can't wait to see how it upsets 'em
 
-Too many times we've been postally pipped
-We've loaded the saddles, the mickeys are slipped
-We're swapping the turf for the sand and the surf and the sin
+Too many times
+we've been postally pipped
+We've loaded the saddles,
+the mickeys are slipped
+We're swapping the turf
+for the sand and the surf and the sin
 'Cause the fix, the fix is in
 
 The fix is in
@@ -843,9 +992,12 @@ The odds that I got were delicious
 The fix is in
 The jockey is cocky and vicious
 
-The redoubtable beast has had Pegasus pills
-We'll buy him the patch in the Tuscany hills
-And the Vino di Vici will flow like a river in spring
+The redoubtable beast
+has had Pegasus pills
+We'll buy him the patch
+in the Tuscany hills
+And the Vino di Vici
+will flow like a river in spring
 Now the fix, the fix is in
 
 The fix is in
@@ -853,9 +1005,13 @@ The snaps of the steward so candid
 The fix is in
 Yes, our pigeons have finally landed
 
-The Donahue sisters will meet us in France
-In penguins and pearls, we'll drink and we'll dance
-'Til the end of our days 'cause it ain't left to chance that we win
+The Donahue sisters
+will meet us in France
+In penguins and pearls,
+we'll drink and we'll dance
+'Til the end of our days
+'cause it ain't left to chance
+that we win
 'Cause the fix, the fix is in
 ```
 
@@ -870,140 +1026,213 @@ Fm (x00231)
 
 [V1]
 Cm
-Elle t'a dit qu'elle serait juste à toi l'après-midi
-Au rond-point, au carré "la fontaine Saint-Louis"
-Bb                                            Gm
-Tu te rends, tu y vas à l'heure comme à l'habitude
-                                                       Cm
-Mais elle ne s'y trouve pas, tu es seul, fait comme un rat
+Elle t'a dit qu'elle serait
+juste à toi l'après-midi
+Au rond-point, au carré
+"la fontaine Saint-Louis"
+Bb
+Tu te rends, tu y vas
+                        Gm
+à l'heure comme à l'habitude
+Mais elle ne s'y trouve pas,
+                          Cm
+tu es seul, fait comme un rat
 
 [V2]
 (Cm)
-Ce n'est rien, ce n'est rien, je vais lui téléphoner
-                                                    Bb
-Ce n'est rien, ce n'est rien, elle a seulement oublié
-                                            Gm
-Mais juste au moment où tu allais vers la cabine
-                                        Cm
-Tu la vois, rigolant avec copains et copines
+Ce n'est rien, ce n'est rien,
+je vais lui téléphoner
+Ce n'est rien, ce n'est rien,
+                      Bb
+elle a seulement oublié
+Mais juste au moment
+                       Gm
+où tu allais vers la cabine
+Tu la vois, rigolant
+                  Cm
+avec copains et copines
 
 [C1]
-            Fm  Gm         Cm
-C'est pas facile  quand Isabelle te laisse tomber
-               Fm  Gm         Cm
-Y a pas d'quoi rire  quand Isabelle te fait marcher
+            Fm
+C'est pas facile
+Gm         Cm
+  quand Isabelle te laisse tomber
+               Fm
+Y a pas d'quoi rire
+Gm         Cm
+  quand Isabelle te fait marcher
 
 [V3]
-La salope, ah la vache, mais pourquoi elle ne dit rien
-La salope, ah la vache, elle te traite comme un chien
+La salope, ah la vache,
+mais pourquoi elle ne dit rien
+La salope, ah la vache,
+elle te traite comme un chien
 Mais ton coeur est trop tendre
 Et tu préfères l'attendre
 Dans le café d'en face
 Comme un espion, comme un con
 
 [V4]
-Mais enfin, au moment où ton café s'en venait
-Tu la vois, elle repart assise sur la mobylette
-De ton pote ou, enfin, celui que tu t'en doutais
-Tu te dis "c'est fini, elle est partie avec lui"
+Mais enfin, au moment
+où ton café s'en venait
+Tu la vois, elle repart
+assise sur la mobylette
+De ton pote ou, enfin,
+celui que tu t'en doutais
+Tu te dis "c'est fini,
+elle est partie avec lui"
 
 [C2]
-C'est pas facile quand Isabelle te laisse tomber
-Y a pas d'quoi rire quand Isabelle te fait marcher (hey!)
+C'est pas facile
+quand Isabelle te laisse tomber
+Y a pas d'quoi rire
+quand Isabelle te fait marcher (hey!)
 
 [V5]
-Tu te rends dans le bar qu'elle préfère le soir venu
-Arrivé, il est dix heures et c'est vide et incongru
+Tu te rends dans le bar
+qu'elle préfère le soir venu
+Arrivé, il est dix heures
+et c'est vide et incongru
 Mais enfin d'quoi t'as l'air
 T'en vois plusieurs qui rigolent
 Qui se parlent dans ton dos
 Qui se foutent de ta gueule
 
 [V6]
-"Où qu'elle est, où qu'elle est", ridicule tu demandes
-À la blonde serveuse qui est sa meilleure amie
-Elle répond "ne sait pas, ni le pourquoi, le comment"
-Avec l'air innocent, tu sais très bien qu'elle te ment
+"Où qu'elle est, où qu'elle est",
+ridicule tu demandes
+À la blonde serveuse
+qui est sa meilleure amie
+Elle répond "ne sait pas,
+ni le pourquoi, le comment"
+Avec l'air innocent,
+tu sais très bien qu'elle te ment
 
 [C3]
-C'est pas facile quand Isabelle te laisse tomber
-Y a pas d'quoi rire quand Isabelle te fait marcher
+C'est pas facile
+quand Isabelle te laisse tomber
+Y a pas d'quoi rire
+quand Isabelle te fait marcher
 
 [C4]
-           Fm    Gm            Cm
-Ma p'tite abeille, je t'aime encore, dis-moi qu'tu dors
-             Fm    Gm            Cm
-Ma p'tite merveille, dis-moi que l'amour n'est pas mort
+           Fm
+Ma p'tite abeille,
+Gm            Cm
+  je t'aime encore, dis-moi qu'tu dors
+             Fm
+Ma p'tite merveille,
+Gm            Cm
+  dis-moi que l'amour n'est pas mort
 
 [C5]
-Fm             Gm                          Cm
-  Isabelle, Isabelle, réponds-moi et parle-moi
-                                              Fm
-J'ai pas su, pas voulu, enfin j'ai pas fais exprès
-                      Gm                              Cm
-Mais elle ne dit plus rien, maintenant, c'est pour de vrai
+Fm             Gm
+  Isabelle, Isabelle,
+                     Cm
+réponds-moi et parle-moi
+J'ai pas su, pas voulu,
+                      Fm
+enfin j'ai pas fais exprès
+                      Gm
+Mais elle ne dit plus rien,
+                          Cm
+maintenant, c'est pour de vrai
 Maintenant à présent,
+
 (Cm)                     Fm
   l'Amour est une sale affaire
 Gm                       Cm
   L'Amour est une sale affaire
 (Cm)                     Fm
   L'Amour est une sale affaire
-Gm                       Cm       Gm Cm
+Gm                       Cm
   L'Amour est une sale affaire
+
+Gm Cm
 ```
 
 ### PAROLES
 
 ```
-Elle t'a dit qu'elle serait juste à toi l'après-midi
-Au rond-point, au carré "la fontaine Saint-Louis"
-Tu te rends, tu y vas à l'heure comme à l'habitude
-Mais elle ne s'y trouve pas, tu es seul, fait comme un rat
+Elle t'a dit qu'elle serait
+juste à toi l'après-midi
+Au rond-point, au carré
+"la fontaine Saint-Louis"
+Tu te rends, tu y vas
+à l'heure comme à l'habitude
+Mais elle ne s'y trouve pas,
+tu es seul, fait comme un rat
 
-Ce n'est rien, ce n'est rien, je vais lui téléphoner
-Ce n'est rien, ce n'est rien, elle a seulement oublié
-Mais juste au moment où tu allais vers la cabine
-Tu la vois, rigolant avec copains et copines
+Ce n'est rien, ce n'est rien,
+je vais lui téléphoner
+Ce n'est rien, ce n'est rien,
+elle a seulement oublié
+Mais juste au moment
+où tu allais vers la cabine
+Tu la vois, rigolant
+avec copains et copines
 
-C'est pas facile quand Isabelle te laisse tomber
-Y a pas d'quoi rire quand Isabelle te fait marcher
+C'est pas facile
+quand Isabelle te laisse tomber
+Y a pas d'quoi rire
+quand Isabelle te fait marcher
 
-La salope, ah la vache, mais pourquoi elle ne dit rien
-La salope, ah la vache, elle te traite comme un chien
+La salope, ah la vache,
+mais pourquoi elle ne dit rien
+La salope, ah la vache,
+elle te traite comme un chien
 Mais ton coeur est trop tendre
 Et tu préfères l'attendre
 Dans le café d'en face
 Comme un espion, comme un con
 
-Mais enfin, au moment où ton café s'en venait
-Tu la vois, elle repart assise sur la mobylette
-De ton pote ou, enfin, celui que tu t'en doutais
-Tu te dis "c'est fini, elle est partie avec lui"
+Mais enfin, au moment
+où ton café s'en venait
+Tu la vois, elle repart
+assise sur la mobylette
+De ton pote ou, enfin,
+celui que tu t'en doutais
+Tu te dis "c'est fini,
+elle est partie avec lui"
 
-C'est pas facile quand Isabelle te laisse tomber
-Y a pas d'quoi rire quand Isabelle te fait marcher (hey!)
+C'est pas facile
+quand Isabelle te laisse tomber
+Y a pas d'quoi rire
+quand Isabelle te fait marcher (hey!)
 
-Tu te rends dans le bar qu'elle préfère le soir venu
-Arrivé, il est dix heures et c'est vide et incongru
+Tu te rends dans le bar
+qu'elle préfère le soir venu
+Arrivé, il est dix heures
+et c'est vide et incongru
 Mais enfin d'quoi t'as l'air
 T'en vois plusieurs qui rigolent
 Qui se parlent dans ton dos
 Qui se foutent de ta gueule
 
-"Où qu'elle est, où qu'elle est", ridicule tu demandes
-À la blonde serveuse qui est sa meilleure amie
-Elle répond "ne sait pas, ni le pourquoi, le comment"
-Avec l'air innocent, tu sais très bien qu'elle te ment
+"Où qu'elle est, où qu'elle est",
+ridicule tu demandes
+À la blonde serveuse
+qui est sa meilleure amie
+Elle répond "ne sait pas,
+ni le pourquoi, le comment"
+Avec l'air innocent,
+tu sais très bien qu'elle te ment
 
-C'est pas facile quand Isabelle te laisse tomber
-Y a pas d'quoi rire quand Isabelle te fait marcher
+C'est pas facile
+quand Isabelle te laisse tomber
+Y a pas d'quoi rire
+quand Isabelle te fait marcher
 
-Ma p'tite abeille, je t'aime encore, dis-moi qu'tu dors
-Ma p'tite merveille, dis-moi que l'amour n'est pas mort
-Isabelle, Isabelle, réponds-moi et parle-moi
-J'ai pas su, pas voulu, enfin j'ai pas fais exprès
-Mais elle ne dit plus rien, maintenant, c'est pour de vrai
+Ma p'tite abeille,
+je t'aime encore, dis-moi qu'tu dors
+Ma p'tite merveille,
+dis-moi que l'amour n'est pas mort
+
+Isabelle, Isabelle,
+réponds-moi et parle-moi
+J'ai pas su, pas voulu,
+enfin j'ai pas fais exprès
+Mais elle ne dit plus rien,
+maintenant, c'est pour de vrai
 Maintenant à présent,
 
 l'Amour est une sale affaire
@@ -1025,30 +1254,44 @@ Pyromane jusqu'au fond des veines
 [V2]
 Coup d'éclat, le dernier appel
 Sur le toit de la chapelle
-J'ouvrirai les gaz et traverserai les flammes
+J'ouvrirai les gaz
+et traverserai les flammes
 Dans l'extase, l'odeur du drame
 
 [C1]
-Dm               F       Bb                F
-Lumière bleue de février sur tes larmes de cire
-Figée devant le brasier, nu-pieds dans le givre
-Tu prieras pour que toutes mes veines se rallument encore
-Tu pourras dire que je t'aime, que je t'aime
+Dm               F
+Lumière bleue de février
+Bb                F
+sur tes larmes de cire
+Figée devant le brasier,
+nu-pieds dans le givre
+Tu prieras pour que toutes mes veines
+se rallument encore
+Tu pourras dire que je t'aime,
+que je t'aime
 à mort, à mort
 
 [V3]
 Rouge démon, rouge mercure
 Deux tisons dans ma figure
-Tu éteins mes rages, me sors de l'entonnoir
-Tu éclaires mes idées noires, tu m'éclaires
+Tu éteins mes rages,
+me sors de l'entonnoir
+Tu éclaires mes idées noires,
+tu m'éclaires
 
 [C2]
-Lumière bleue de février sur tes larmes de cire
-Figée devant le brasier, nu-pieds dans le givre
-Tu prieras pour que toutes mes veines se rallument encore
-Tu pourras dire que je t'aime, que je t'aime à mort
-Tu prieras pour que toutes mes veines se rallument encore
-Tu pourras dire que je t'aime, que je t'aime à mort, à mort
+Lumière bleue de février
+ sur tes larmes de cire
+Figée devant le brasier,
+nu-pieds dans le givre
+Tu prieras pour que toutes mes veines
+se rallument encore
+Tu pourras dire que je t'aime,
+que je t'aime à mort
+Tu prieras pour que toutes mes veines
+se rallument encore
+Tu pourras dire que je t'aime,
+que je t'aime à mort, à mort
 ```
 
 ## PHIL BRACH : CRYSTEL
@@ -1082,23 +1325,30 @@ Tu reviens toujours au moment
 où j’t’espérais pus
 F#m F#mmaj7   F#m7
     Tes ailes
-F#m6              D                C#m11
-  Au premier battement sont venues boucher ma vue
+F#m6              D
+  Au premier battement
+            C#m11
+sont venues boucher ma vue
 
 D        E
 Mais moi, entre deux buvards
 F#m F#mmaj7 F#m7 F#m6
 D                  E
-    Pour passer le temps, ben j’t’attends plus fort
-F#m F#mmaj7 F#m7 F#m6
-D                    E
-   En souhaitant que ta silhouette s’évapore
+    Pour passer le temps,
+ben j’t’attends plus fort
+F#m F#mmaj7 F#m7 F#m6 D
+              E
+En souhaitant qu'ta silhouette s’évapore
 
 [C1]
-F#m               B              Bm
-       Parmi les enfants sourds pis les rois morts
-                    A                           G#7
-Qui volent dans ton sang, J’te retrouve tout le temps
+F#m         B
+  Parmi les enfants sourds
+Bm
+pis les rois morts
+                    A
+Qui volent dans ton sang,
+                      G#7
+J’te retrouve tout le temps
 Dans mon angle mort
 
 [V2]
@@ -1108,11 +1358,14 @@ Mes mains
 s’éloignent à chaque essai
 
 Mais toi, pendant que tu dors
-Le sommeil te berce, y te garde le phare
-Entre tes deux oreilles même pas l’ombre d’un remords
+Le sommeil te berce,
+y te garde le phare
+Entre tes deux oreilles
+même pas l’ombre d’un remords
 
 [C2]
-Malgré les faux clins d’oeil, les shots de fort
+Malgré les faux clins d’oeil,
+les shots de fort
 Dans mon inconscient
 Tu flottes tout le temps
 Dans mon angle mort
