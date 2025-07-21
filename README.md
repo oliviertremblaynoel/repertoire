@@ -13,9 +13,11 @@
   - [Paroles](#paroles-2)
 - [DANIEL BÉLANGER : LES DEUX PRINTEMPS](#daniel-b%C3%89langer--les-deux-printemps)
   - [Paroles](#paroles-3)
-- [TOFIX ELBOW : THE BONES OF YOU](#tofix-elbow--the-bones-of-you)
+- [ELBOW : THE BONES OF YOU](#elbow--the-bones-of-you)
 - [TOFIX ELBOW : The Fix](#tofix-elbow--the-fix)
-- [TODO JEAN LELOUP : ISABELLE](#todo-jean-leloup--isabelle)
+  - [PAROLES](#paroles)
+- [JEAN LELOUP : ISABELLE](#jean-leloup--isabelle)
+  - [PAROLES](#paroles-1)
 - [KARKWA : LE PYROMANE](#karkwa--le-pyromane)
 - [LOUIS-JEAN CORMIER : L’ASCENSEUR](#louis-jean-cormier--lascenseur)
 - [PHIL BRACH : CRYSTEL](#phil-brach--crystel)
@@ -136,6 +138,7 @@ Hé!
 
 ### Paroles
 
+```
 Juste en bas d'chez moi
 Sur la rue Mont-Royal
 Y a un p'tit gars, y a pas d'bécique
@@ -189,6 +192,7 @@ Dédé, Dédé, Dédé
 Dis-moi comment tu fais pour endurer tout ça
 Dis-moi qu'est-ce que j'peux faire pour te venir en aide
 Chasser les démons qui rentrent dans ta tête?
+```
 
 ## LES COLOCS : JUSTE UNE PETITE NUITE
 
@@ -273,6 +277,7 @@ fais-moé accroire que chu pas clairé
 
 ### Paroles
 
+```
 J'sais ben qu't'étais pas faite pour moé
 Mais j'm'ennuie pareil, as-tu compris?
 J'm'ennuie d'tes cuisses, j'm'ennuie d'tes seins
@@ -304,6 +309,7 @@ Mais j't'orgueilleux quand j't'avec toé
 On va faire l'amour en silence
 Comme des amants un peu blasés
 Avant de m'donner mes vacances, fais-moé accroire que chu pas clairé
+```
 
 ## DANIEL BÉLANGER : SÈCHES TES PLEURS
 
@@ -418,6 +424,7 @@ Gmaj7 (100230)
 
 ### Paroles
 
+```
 J'ai jamais vu une fille
 Pleurer autant pour un garçon
 Jamais vu l'amour
@@ -472,6 +479,7 @@ J't'en prie sèche tes pleurs
 Sèche tes pleurs, sèche tes pleurs
 Sèche tes pleurs ma soeur
 Sèche tes pleurs ma soeur
+```
 
 ## DANIEL BÉLANGER : LES DEUX PRINTEMPS
 
@@ -631,6 +639,7 @@ G  D  E
 
 ### Paroles
 
+```
 Ses yeux sont deux printemps qui m'font sourire et ça m'fait rire
 Ses joues sont des torrents, les miennes s'y baignent, mais encore pire
 Son coeur est une fête, le mien ne veut plus en sortir
@@ -673,23 +682,19 @@ La-la-la-la, la-la
 Ouh-na-na, ouh-na-na, na
 Ouh-oh-oh
 Ouh
+```
 
-## TOFIX ELBOW : THE BONES OF YOU
+## ELBOW : THE BONES OF YOU
 
 ```
 CAPO 3
 G7  (056400)
 Cm6 (034200)
 
-             G7
 So I'm there
-Cm6                    G7
 Charging around with a juggernaut brow
-Cm6                    G7
 Overdraft speeches and deadlines to make
-Cm6                       G7
 Cramming commitments like cats in a sack
-Cm6                  G7
 Telephone burn and a purposeful gait
 
 When out of a doorway, the tentacles stretch
@@ -735,6 +740,7 @@ And three thousand miles away
 ## TOFIX ELBOW : The Fix
 
 ```
+CAPO 3
 Cm (x02210)
 G  (022100)
 Fm (xx0231)
@@ -819,10 +825,191 @@ Cause the fix, the fix is in
 | Cm     |
 ```
 
-## TODO JEAN LELOUP : ISABELLE
+### PAROLES
 
 ```
-TODO
+The fix is in
+There's a nag gonna dance home at Epsom
+The fix is in
+Can't wait to see how it upsets 'em
+
+Too many times we've been postally pipped
+We've loaded the saddles, the mickeys are slipped
+We're swapping the turf for the sand and the surf and the sin
+'Cause the fix, the fix is in
+
+The fix is in
+The odds that I got were delicious
+The fix is in
+The jockey is cocky and vicious
+
+The redoubtable beast has had Pegasus pills
+We'll buy him the patch in the Tuscany hills
+And the Vino di Vici will flow like a river in spring
+Now the fix, the fix is in
+
+The fix is in
+The snaps of the steward so candid
+The fix is in
+Yes, our pigeons have finally landed
+
+The Donahue sisters will meet us in France
+In penguins and pearls, we'll drink and we'll dance
+'Til the end of our days 'cause it ain't left to chance that we win
+'Cause the fix, the fix is in
+```
+
+## JEAN LELOUP : ISABELLE
+
+```
+CAPO 3
+Cm (002210)
+Bb (320003)
+Gm (022000)
+Fm (x00231)
+
+[V1]
+Cm
+Elle t'a dit qu'elle serait juste à toi l'après-midi
+Au rond-point, au carré "la fontaine Saint-Louis"
+Bb                                            Gm
+Tu te rends, tu y vas à l'heure comme à l'habitude
+                                                       Cm
+Mais elle ne s'y trouve pas, tu es seul, fait comme un rat
+
+[V2]
+(Cm)
+Ce n'est rien, ce n'est rien, je vais lui téléphoner
+                                                    Bb
+Ce n'est rien, ce n'est rien, elle a seulement oublié
+                                            Gm
+Mais juste au moment où tu allais vers la cabine
+                                        Cm
+Tu la vois, rigolant avec copains et copines
+
+[C1]
+            Fm  Gm         Cm
+C'est pas facile  quand Isabelle te laisse tomber
+               Fm  Gm         Cm
+Y a pas d'quoi rire  quand Isabelle te fait marcher
+
+[V3]
+La salope, ah la vache, mais pourquoi elle ne dit rien
+La salope, ah la vache, elle te traite comme un chien
+Mais ton coeur est trop tendre
+Et tu préfères l'attendre
+Dans le café d'en face
+Comme un espion, comme un con
+
+[V4]
+Mais enfin, au moment où ton café s'en venait
+Tu la vois, elle repart assise sur la mobylette
+De ton pote ou, enfin, celui que tu t'en doutais
+Tu te dis "c'est fini, elle est partie avec lui"
+
+[C2]
+C'est pas facile quand Isabelle te laisse tomber
+Y a pas d'quoi rire quand Isabelle te fait marcher (hey!)
+
+[V5]
+Tu te rends dans le bar qu'elle préfère le soir venu
+Arrivé, il est dix heures et c'est vide et incongru
+Mais enfin d'quoi t'as l'air
+T'en vois plusieurs qui rigolent
+Qui se parlent dans ton dos
+Qui se foutent de ta gueule
+
+[V6]
+"Où qu'elle est, où qu'elle est", ridicule tu demandes
+À la blonde serveuse qui est sa meilleure amie
+Elle répond "ne sait pas, ni le pourquoi, le comment"
+Avec l'air innocent, tu sais très bien qu'elle te ment
+
+[C3]
+C'est pas facile quand Isabelle te laisse tomber
+Y a pas d'quoi rire quand Isabelle te fait marcher
+
+[C4]
+           Fm    Gm            Cm
+Ma p'tite abeille, je t'aime encore, dis-moi qu'tu dors
+             Fm    Gm            Cm
+Ma p'tite merveille, dis-moi que l'amour n'est pas mort
+
+[C5]
+Fm             Gm                          Cm
+  Isabelle, Isabelle, réponds-moi et parle-moi
+                                              Fm
+J'ai pas su, pas voulu, enfin j'ai pas fais exprès
+                      Gm                              Cm
+Mais elle ne dit plus rien, maintenant, c'est pour de vrai
+Maintenant à présent,
+(Cm)                     Fm
+  l'Amour est une sale affaire
+Gm                       Cm
+  L'Amour est une sale affaire
+(Cm)                     Fm
+  L'Amour est une sale affaire
+Gm                       Cm       Gm Cm
+  L'Amour est une sale affaire
+```
+
+### PAROLES
+
+```
+Elle t'a dit qu'elle serait juste à toi l'après-midi
+Au rond-point, au carré "la fontaine Saint-Louis"
+Tu te rends, tu y vas à l'heure comme à l'habitude
+Mais elle ne s'y trouve pas, tu es seul, fait comme un rat
+
+Ce n'est rien, ce n'est rien, je vais lui téléphoner
+Ce n'est rien, ce n'est rien, elle a seulement oublié
+Mais juste au moment où tu allais vers la cabine
+Tu la vois, rigolant avec copains et copines
+
+C'est pas facile quand Isabelle te laisse tomber
+Y a pas d'quoi rire quand Isabelle te fait marcher
+
+La salope, ah la vache, mais pourquoi elle ne dit rien
+La salope, ah la vache, elle te traite comme un chien
+Mais ton coeur est trop tendre
+Et tu préfères l'attendre
+Dans le café d'en face
+Comme un espion, comme un con
+
+Mais enfin, au moment où ton café s'en venait
+Tu la vois, elle repart assise sur la mobylette
+De ton pote ou, enfin, celui que tu t'en doutais
+Tu te dis "c'est fini, elle est partie avec lui"
+
+C'est pas facile quand Isabelle te laisse tomber
+Y a pas d'quoi rire quand Isabelle te fait marcher (hey!)
+
+Tu te rends dans le bar qu'elle préfère le soir venu
+Arrivé, il est dix heures et c'est vide et incongru
+Mais enfin d'quoi t'as l'air
+T'en vois plusieurs qui rigolent
+Qui se parlent dans ton dos
+Qui se foutent de ta gueule
+
+"Où qu'elle est, où qu'elle est", ridicule tu demandes
+À la blonde serveuse qui est sa meilleure amie
+Elle répond "ne sait pas, ni le pourquoi, le comment"
+Avec l'air innocent, tu sais très bien qu'elle te ment
+
+C'est pas facile quand Isabelle te laisse tomber
+Y a pas d'quoi rire quand Isabelle te fait marcher
+
+Ma p'tite abeille, je t'aime encore, dis-moi qu'tu dors
+Ma p'tite merveille, dis-moi que l'amour n'est pas mort
+Isabelle, Isabelle, réponds-moi et parle-moi
+J'ai pas su, pas voulu, enfin j'ai pas fais exprès
+Mais elle ne dit plus rien, maintenant, c'est pour de vrai
+Maintenant à présent,
+
+l'Amour est une sale affaire
+L'Amour est une sale affaire
+L'Amour est une sale affaire
+L'Amour est une sale affaire
 ```
 
 ## KARKWA : LE PYROMANE
