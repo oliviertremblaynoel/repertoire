@@ -25,6 +25,8 @@
 - [GAINSBOURG : LA JAVANAISE](#gainsbourg--la-javanaise)
   - [PAROLES](#paroles-7)
 - [GAINSBOURG : COULEUR CAFÉ](#gainsbourg--couleur-caf%C3%89)
+- [LISA LEBLANC : CITY SLICKERS AND COUNTRY BOYS](#lisa-leblanc--city-slickers-and-country-boys)
+  - [PAROLES](#paroles-8)
 - [{TOADD} LOUIS-JEAN CORMIER : L’ASCENSEUR](#toadd-louis-jean-cormier--lascenseur)
 - [TODO DANIEL BÉLANGER : JOLI CAHOS](#todo-daniel-b%C3%89langer--joli-cahos)
 - [TODO DANIEL BÉLANGER : Intouchable et immortel](#todo-daniel-b%C3%89langer--intouchable-et-immortel)
@@ -32,7 +34,7 @@
 - [TODO VIGNAULT : GENS DU PAYS](#todo-vignault--gens-du-pays)
 - [TODO PIERRE LAPOINTE : DE GLACE](#todo-pierre-lapointe--de-glace)
 - [TODO ARIANE MOFFAT : JE RETOURNE À MONTRÉAL](#todo-ariane-moffat--je-retourne-%C3%80-montr%C3%89al)
-- [TODO LISA LEBLANCCITY SLICKERS AND COUNTRY BOYS](#todo-lisa-leblanccity-slickers-and-country-boys)
+- [TODO LISA LEBLANC : Why does it feel](#todo-lisa-leblanc--why-does-it-feel)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -1833,6 +1835,139 @@ Couleur café
 Que j'aime ta couleur café
 ```
 
+## LISA LEBLANC : CITY SLICKERS AND COUNTRY BOYS
+
+```
+CAPO 1
+Bbm (002210)
+Eb  (200212)
+Gb  (113321)
+Ab  (320003)
+
+[INTRO]
+                  Eb
+E|-------|--------|2|-|
+B|--101-0|--------|1|-|
+G|-----2-|20-0----|2|-|
+D|-------|--2-20--|0|-|
+A|-------|------03|0|-|
+E|-------|--------|2|-|
+                  Bbm
+E|--------|--------|0|-|
+B|--1010-0|--------|1|-|
+G|------2-|20-0----|2|-|
+D|--------|--2-20--|2|-|
+A|--------|------03|0|-|
+E|--------|--------|0|-|
+                    Eb
+E|--------|--------|2|-|
+B|--5353-3|--------|1|-|
+G|------5-|54542420|2|-|
+D|--------|--------|0|-|
+A|--------|--------|0|-|
+E|--------|--------|2|-|
+                    Bbm
+E|--------|--------|2|-|
+B|--5353-3|--------|1|-|
+G|------5-|54542420|2|-|
+D|--------|--------|0|-|
+A|--------|--------|0|-|
+E|--------|--------|2|-|
+
+[V1]
+Bbm
+  Someone get me outta here
+Someone get me outta here
+  Eb
+Before I go crazy
+Before I go crazy
+     Bbm
+I’ve been all over town
+I’ve been all over town
+    Eb
+Oh, it’s getting pretty old
+Oh, it’s getting pretty old
+
+[C1]
+     Gb
+I’ve been here two days
+       Ab                 Bbm
+And it feels like forever
+
+[Intro again]
+
+[V2]
+City slickers and country boys
+City slickers and country boys
+Don’t mix here now
+They don’t mix here now
+Greasy men and sleazy looks, well
+Sleazy women and greasy looks
+I’ve got a feeling
+I ain’t welcome here
+[C2]
+Oh, I’ve been here two days
+And it feels like forever
+
+[Guitar solo] TODO
+
+[V3]
+Someone get me outta here
+Well, someone get me outta here
+Before I go crazy
+Before I go crazy
+I’ve been all over town
+I’ve been all over town
+Oh, it’s getting pretty old
+Oh, it’s getting pretty old
+[C3]
+I’ve been here two days
+And it feels like forever
+Oh, I’ve been here two days
+And it feels like forever
+
+Eb9
+```
+
+### PAROLES
+
+```
+Someone get me outta here
+Someone get me outta here
+Before I go crazy
+Before I go crazy
+I’ve been all over town
+I’ve been all over town
+Oh, it’s getting pretty old
+Oh, it’s getting pretty old
+I’ve been here two days
+And it feels like forever
+
+City slickers and country boys
+City slickers and country boys
+Don’t mix here now
+They don’t mix here now
+Greasy men and sleazy looks, well
+Sleazy women and greasy looks
+I’ve got a feeling
+I ain’t welcome here
+Oh, I’ve been here two days
+And it feels like forever
+
+Someone get me outta here
+Well, someone get me outta here
+Before I go crazy
+Before I go crazy
+I’ve been all over town
+I’ve been all over town
+Oh, it’s getting pretty old
+Oh, it’s getting pretty old
+I’ve been here two days
+And it feels like forever
+Oh, I’ve been here two days
+And it feels like forever
+```
+
 ## {TOADD} LOUIS-JEAN CORMIER : L’ASCENSEUR
 
 ```
@@ -1863,4 +1998,4 @@ todo
 
 ## TODO ARIANE MOFFAT : JE RETOURNE À MONTRÉAL
 
-## TODO LISA LEBLANCCITY SLICKERS AND COUNTRY BOYS
+## TODO LISA LEBLANC : Why does it feel
