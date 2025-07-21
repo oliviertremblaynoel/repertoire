@@ -29,53 +29,54 @@
 
 ## COLOCS
 
-### JUSTE UNE PETITE NUITE
-
-```
-TODO
-```
-
 ### DÉDÉ
 
 ```
-\[Couplet 1\]
+[V1]
+G7  (353433)
+C7  (x3231x)
+D7  (x5453x)
+Db7 (x4342x)
 
- |G7  | C7 |G7  | C7 |G7  | C7 |D7C7| G7 |
-e|-3--|-x--|-3--|-x--|-3--|-x--|xxx-|-x--|
-B|-3--|-1--|-3--|-1--|-3--|-1--|321-|-3--|
-G|-4--|-3--|-4--|-3--|-4--|-3--|543-|-2--|
-D|-3--|-2--|-3--|-2--|-3--|-2--|432-|-3--|
-A|-5--|-3--|-5--|-3--|-5--|-3--|543-|-1--|
-E|-3--|-x--|-3--|-x--|-3--|-x--|xxx-|-x--|
-
-Juste en bas d'chez moi, sur la [rue Mont-Royal](https://genius.com/9810404/Les-colocs-dede/Rue-mont-royal)
+      G7                            C7
+Juste en bas d'chez moi, sur la rue Mont-Royal
+G7                            C7
 Y a un p'tit gars, y'a pas d'bicycle
+G7                            C7
 Mais y'a une mère, mais c'est pas sa mère
+        D7       Db7 C7    G7
 Pis son père, c't'un alcoolique
 C'est classique
 
+      G7                              C7
 Des fois y'a l'aut' mère, qui est pas plus sa mère
+  G7                         C7
 A vient l'chercher, ça fait du bruit!
+G7                         C7
 D'ailleurs le bruit, c'est toute sa vie
+D7 Db7 C7    G7
 À part la folie
 
-\[Chorus\]
- |B7  |B7  |E7  |E7  |A7  |A7  |D7  |D7  |
-e|-2--|----|-0--|----|-0--|----|-2--|----|
-B|-4--|----|-0--|----|-2--|----|-1--|----|
-G|-2--|----|-1--|----|-0--|----|-2--|----|
-D|-4--|----|-0--|----|-2--|----|-0--|----|
-A|-2--|----|-2--|----|-0--|----|-0--|----|
-E|-2--|----|-0--|----|-0--|----|-x--|----|
-
+[C1]
+B7  (224242)
+E7  (020100)
+A7  (002020)
+D7  (x00212)
+            B7
 Wô! Wô! Wô! Dédé
 Dédé, Dédé, Dédé!
+    E7
 Dis-moi comment tu fais pour endurer tout ça!
+    A7
 Dis-moi qu'est-ce que j'peux faire pour te venir en aide!
+D7
 Chasser les démons qui rentrent dans ta tête!
 Hé!
 
-\[Couplet 2\]
+|G7 |C7 |G7         |C7 |
+|G7 |C7 |D7 Db7 C7  |G7 |
+
+[V2]
 Tous les jours à sept heures du matin
 J'entends des cris: "Dédé vient icitte!"
 J'pense que Dédé c't'un fils de putain
@@ -86,7 +87,7 @@ Une chance qu'y est pas là l'après-midi!
 Ça fait qu'Dédé va jouer dans ruelle
 Avec les poubelles
 
-\[Chorus\]
+[C2]
 Wô! Wô! Wô! Dédé
 Dédé, Dédé, Dédé!
 Dis-moi comment tu fais pour endurer tout ça!
@@ -94,27 +95,121 @@ Dis-moi qu'est-ce que j'peux faire pour te venir en aide!
 Chasser les démons qui rentrent dans ta tête!
 Hé!
 
-\[Bridge instrumental\]
+[Bridge instrumental]
 
-\[Couplet 3\]
+[V3]
+A7  (575655)
+D7  (x5453x)
+E7  (x7675x)
+Eb7 (x6564x)
+
+        A7              D7
 Ah! Le soir venu, quand Dédé est couché
+A7                        D7
 Le bruit est parti, y vit sa vie
+A7                            D7
 Entre deux couvertes, pis son vieux toutou
+E7 Eb7  D7        A7
 Enfin l'monde est doux!
 
+      G7                  C7
 D'un rêve à l'autre, y patine y s'amuse
+G7                  C7
 Y danse, y rit avec ses chums
+          G7                         C7
 Y vole au-dessus d'la ville avec les éléphants
+D7 Db7 C7    G7
 Enfin y a du fun
 Hé!
 
-\[Chorus\]
+[C3]
 Wô! Wô! Wô! Dédé
 Dédé, Dédé, Dédé!
 Dis-moi comment tu fais pour endurer tout ça!
 Dis-moi qu'est-ce que j'peux faire pour te venir en aide!
 Chasser les démons qui rentrent dans ta tête!
 Hé!
+```
+
+### JUSTE UNE PETITE NUITE
+
+```
+Em  (779987)
+Am  (577555)
+C   (8 10 10 9 8 8)
+B   (799877)
+
+D|-----------------|
+A|57-5-------------|
+E|-----7-6-5-3-0---|
+
+|Em |Em |Em |Em |
+[V1]
+                    Em
+J'sais ben qu't'étais pas faite pour moé
+Mais j'm'ennuie pareil, as-tu compris?
+J'm'ennuie d'tes cuisses, j'm'ennuie d'tes seins
+J'm'ennuie d'tes yeux, t'ennuies-tu des miens?
+
+[C1]
+Am
+J'sais ben, j'sais ben, dis-moé le pu
+            Em
+J'étais pas fait pour toé non plus
+                  C
+T'es faite comme un ordinateur
+          B                               Em
+Sorry no compute, que c'est que j'fais ast'heure?
+
+|B |Em |
+
+[V2]
+              Em
+Câlisse reste donc, juste une 'tite nuite
+Pis on va s'aimer, jusqu'au matin
+T'es obligée d'partir, j'sais ben
+Mais t'es pas obligée d'partir toute suite
+
+[C2]
+Am
+On va s'rouler un gros pétard
+          Em
+On va s'pèter la fiole en deux
+              C7
+Tu vas m'dire "André y'est trop tard
+               B7           Em
+on peut être copain, si tu veux"
+
+|B |Em | (Solo Harmonica)
+
+[C3]
+Am
+On va s'rouler un gros pétard
+          Em
+On va s'pèter la fiole en deux
+              C7
+Tu vas m'dire "André y'est trop tard
+               B7            Em
+on peut être copain, si tu veux"
+
+|B |Em |
+
+[V3]
+Pis ça je l'sais, ça va m'faire chier
+Si c'est rien qu'copains, j'aime mieux tout seul
+Mais j't'orgueilleux quand j't'avec toé
+Ça fait que j'vas fermer ma yeule
+
+Am
+On va faire l'amour en silence
+            Em
+Comme des amants un peu blasés
+            C7
+Avant de m'donner mes vacances,
+            B7                    Em
+fais-moé accroire que chu pas clairé
+
+|B |Em |
 ```
 
 ## DANIEL BÉLANGER
@@ -122,7 +217,112 @@ Hé!
 ### SÈCHES TES PLEURS
 
 ```
-TODO
+CAPO 2
+4/4 Accent 2e temps
+
+Bm  (x02210)
+A   (320003)
+D   (x32010)
+F#  (022100)
+F#7 (022130)
+
+[V1]
+Bm
+  J'ai jamais vu une fille
+A
+  Pleurer autant pour un garçon
+D                  F# F#7 F#
+  Jamais vu l'amour
+
+F#
+  Créer d'la haine de cette façon
+
+Bm
+  Ses chagrins de jour
+A7
+  Vont finir dans ceux de la nuit
+D              F#
+  Faut la voir marcher d'un pas lourd
+Bm              A
+Comme si chaque pied pesait sur lui
+
+[C1]
+Em  (x00231)
+E7  (x00232)
+Bm9 (x02200)
+
+Em                 F#               Bm
+  Sèche tes pleurs, sèche tes pleurs
+E7          Em            Bm       Bm9
+J't'en prie sèche tes pleurs
+
+[V2]
+Y'a 15 jours est parti
+Celui qu'elle voulait pour longtemps
+Est parti celui
+Dont elle souhaite la mort maintenant
+Qu'il crève, mieux, qu'il souffre
+Qu'une fille le largue par-dessus bord
+Que dans ses larmes comme moi s'étouffe
+Que le sud de la fille lui fasse du nord
+
+[C2]
+Em                 F#               Bm
+  Sèche tes pleurs, sèche tes pleurs
+E7          Em
+J't'en prie sèche tes pleurs
+|Bm |E7 Em |Bm |Bm9 |
+
+[V3]
+À qui veut bien l'entendre
+Elle en dit du mal autant qu'elle peut
+Le con, le chien, l'salaud
+Pas de gentillesse, pas d'souvenir tendre
+Et pleure et pleure encore
+Qu'avec toutes les larmes qui tombent
+J'ai pensé calmer mes remords
+Et fournir en eau le tiers monde
+
+[C3]
+Em                 F#               Bm
+  Sèche tes pleurs, sèche tes pleurs
+E7          Em
+J't'en prie sèche tes pleurs
+Em                 F#               Bm
+  Sèche tes pleurs, sèche tes pleurs
+E7          Em
+J't'en prie sèche tes pleurs
+|Bm |Bm9 |
+
+[V4]
+Qui j'vois c't après-midi?
+Son pauvre diable tout aviné
+Je l'aime et j'm'ennuie
+Pourquoi tu vas pas la r'trouver?
+Et je m'disais tout bas
+Vas-y elle se meurt de te revoir
+Cours-y me rendre service à moi
+Boucher l'affluent d'la mer Noire
+
+[C4]
+Em                 F#               Bm
+  Sèche tes pleurs, sèche tes pleurs
+E7          Em
+J't'en prie sèche tes pleurs
+Em                 F#               Bm
+  Sèche tes pleurs, sèche tes pleurs
+E7          Em
+J't'en prie sèche tes pleurs
+
+Em                 F#               Bm
+  Sèche tes pleurs, sèche tes pleurs
+E7          Em           Bm
+Sèche tes pleurs ma sœur
+|E7 Em |Bm |
+E7          Em
+Sèche tes pleurs ma sœur
+
+Gmaj7 (100230)
 ```
 
 ### DEUX PRINTEMPS
