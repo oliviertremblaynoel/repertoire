@@ -3,7 +3,7 @@ repos:
     hooks:
       - id: doctoc-docker
         name: doctoc via Docker
-        entry: bash -c 'docker run --rm -v "$(pwd)":/app -w /app node:20 npx doctoc --maxlevel 3 --notitle'
+        entry: bash -c 'docker run --rm -v "$(pwd)":/app -w /app node:20 npx doctoc README.md --maxlevel 3 --notitle'
         language: system
         types: [markdown]
         files: ^README\.md$

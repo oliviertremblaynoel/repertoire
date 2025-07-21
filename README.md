@@ -5,25 +5,30 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [COLOCS](#colocs)
-  - [JUSTE UNE PETITE NUITE](#juste-une-petite-nuite)
-  - [DÉDÉ](#d%C3%89d%C3%89)
-- [DANIEL BÉLANGER](#daniel-b%C3%89langer)
-  - [SÈCHES TES PLEURS](#s%C3%88ches-tes-pleurs)
-  - [DEUX PRINTEMPS](#deux-printemps)
-  - [JOLI CAHOS](#joli-cahos)
-- [ELBOW](#elbow)
-  - [THE BONES OF YOU](#the-bones-of-you)
-  - [The Fix](#the-fix)
-- [JEAN LELOUP](#jean-leloup)
-  - [ISABELLE](#isabelle)
-  - [WILLIE](#willie)
-- [KARKWA](#karkwa)
-  - [LE PYROMANE](#le-pyromane)
-- [LOUIS-JEAN CORMIER](#louis-jean-cormier)
-  - [L’ASCENSEUR](#lascenseur)
-- [PHIL BRACH](#phil-brach)
-  - [CRYSTEL](#crystel)
+- [LES COLOCS : DÉDÉ](#les-colocs--d%C3%89d%C3%89)
+  - [Paroles](#paroles)
+- [LES COLOCS : JUSTE UNE PETITE NUITE](#les-colocs--juste-une-petite-nuite)
+  - [Paroles](#paroles-1)
+- [DANIEL BÉLANGER : SÈCHES TES PLEURS](#daniel-b%C3%89langer--s%C3%88ches-tes-pleurs)
+  - [Paroles](#paroles-2)
+- [DANIEL BÉLANGER : LES DEUX PRINTEMPS](#daniel-b%C3%89langer--les-deux-printemps)
+  - [Paroles](#paroles-3)
+- [TOFIX ELBOW : THE BONES OF YOU](#tofix-elbow--the-bones-of-you)
+- [TOFIX ELBOW : The Fix](#tofix-elbow--the-fix)
+- [TODO JEAN LELOUP : ISABELLE](#todo-jean-leloup--isabelle)
+- [KARKWA : LE PYROMANE](#karkwa--le-pyromane)
+- [LOUIS-JEAN CORMIER : L’ASCENSEUR](#louis-jean-cormier--lascenseur)
+- [PHIL BRACH : CRYSTEL](#phil-brach--crystel)
+- [TODO DANIEL BÉLANGER : JOLI CAHOS](#todo-daniel-b%C3%89langer--joli-cahos)
+- [TODO DANIEL BÉLANGER : Intouchable et immortel](#todo-daniel-b%C3%89langer--intouchable-et-immortel)
+- [TODO DANIEL BÉLANGER : La folie en quatre](#todo-daniel-b%C3%89langer--la-folie-en-quatre)
+  - [TODO JEAN LELOUP : WILLIE](#todo-jean-leloup--willie)
+- [TODO GAINSBOURG : LA JAVANAISE](#todo-gainsbourg--la-javanaise)
+- [TODO GAINSBOURG : COULEUR CAFÉ](#todo-gainsbourg--couleur-caf%C3%89)
+- [TODO VIGNAULT : GENS DU PAYS](#todo-vignault--gens-du-pays)
+- [TODO PIERRE LAPOINTE : DE GLACE](#todo-pierre-lapointe--de-glace)
+- [TODO ARIANE MOFFAT : JE RETOURNE À MONTRÉAL](#todo-ariane-moffat--je-retourne-%C3%80-montr%C3%89al)
+- [TODO LISA LEBLANCCITY SLICKERS AND COUNTRY BOYS](#todo-lisa-leblanccity-slickers-and-country-boys)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -129,6 +134,62 @@ Chasser les démons qui rentrent dans ta tête!
 Hé!
 ```
 
+### Paroles
+
+Juste en bas d'chez moi
+Sur la rue Mont-Royal
+Y a un p'tit gars, y a pas d'bécique
+Mais y a une mère, mais c'est pas sa mère
+Pis son père, c't'un alcoolique
+C'est classique
+
+Des fois, y a l'aut'mère
+Qu'y est pas plus sa mère
+A vient l'chercher, ça fait du bruit
+D'ailleurs, le bruit, c'est toute sa vie
+À part la folie
+
+Wo! Wo! Wo! Dédé
+Dédé, Dédé, Dédé
+Dis-moi comment tu fais pour endurer tout ça
+Dis-moi qu'est-ce que j'peux faire pour te venir en aide
+Chasser les démons qui rentrent dans ta tête
+
+Oh, tous les jours
+À sept heures du matin
+J'entends des cris "Dédé, viens icitte"
+J'pense que Dédé, c't'un fils de putain
+On l'traite comme un chien et pis, pis
+
+Et pis y a l'autre saoulon
+Qui gueule après lui
+Une chance qu'y est pas là l'après-midi
+Ça fait qu'Dédé va jouer dans ruelle
+Avec les poubelles
+
+Wo! Wo! Wo! Dédé
+Dédé, Dédé, Dédé
+Dis-moi comment tu fais pour endurer tout ça
+Dis-moi qu'est-ce que j'peux faire pour te venir en aide
+Chasser les démons qui rentrent dans ta tête (hé!)
+
+Ah, le soir venu quand Dédé est couché
+Le bruit est parti, y vit sa vie
+Ent' deux couvertes pis son vieux toutou
+Enfin l'monde est doux
+
+Ah, d'un rêve à l'autre
+Y patine, y s'amuse
+Y danse, y rit avec ses chums
+Y vole au-dessus d'la ville avec les éléphants
+Enfin y a du fun, hé!
+
+Wo! Wo! Dédé
+Dédé, Dédé, Dédé
+Dis-moi comment tu fais pour endurer tout ça
+Dis-moi qu'est-ce que j'peux faire pour te venir en aide
+Chasser les démons qui rentrent dans ta tête?
+
 ## LES COLOCS : JUSTE UNE PETITE NUITE
 
 ```
@@ -209,6 +270,40 @@ fais-moé accroire que chu pas clairé
 
 |B |Em |
 ```
+
+### Paroles
+
+J'sais ben qu't'étais pas faite pour moé
+Mais j'm'ennuie pareil, as-tu compris?
+J'm'ennuie d'tes cuisses, j'm'ennuie d'tes seins
+J'm'ennuie d'tes yeux, t'ennuies-tu des miens?
+
+J'sais ben, j'sais ben, dis-moé le pu
+J'étais pas fait pour toé non plus
+T'es faite comme un ordinateur
+Sorry no compute, que c'est que j'fais ast'heure?
+
+Câlisse reste donc, juste une 'tite nuite
+Pis on va s'aimer, jusqu'au matin
+T'es obligée d'partir, j'sais ben
+Mais t'es pas obligée d'partir toute suite
+
+On va s'rouler un gros pétard
+On va s'pèter la fiole en deux
+Tu vas m'dire "André y'est trop tard on peut être copain, si tu veux"
+
+On va s'rouler un gros pétard
+On va s'pèter la fiole en deux
+Tu vas m'dire "André y'est trop tard on peut être copain, si tu veux"
+
+Pis ça je l'sais, ça va m'faire chier
+Si c'est rien qu'copains, j'aime mieux tout seul
+Mais j't'orgueilleux quand j't'avec toé
+Ça fait que j'vas fermer ma yeule
+
+On va faire l'amour en silence
+Comme des amants un peu blasés
+Avant de m'donner mes vacances, fais-moé accroire que chu pas clairé
 
 ## DANIEL BÉLANGER : SÈCHES TES PLEURS
 
@@ -320,6 +415,63 @@ Sèche tes pleurs ma sœur
 
 Gmaj7 (100230)
 ```
+
+### Paroles
+
+J'ai jamais vu une fille
+Pleurer autant pour un garçon
+Jamais vu l'amour
+Créer d'la haine de cette façon
+Ses chagrins de jour
+Vont finir dans ceux de la nuit
+Faut la voir marcher d'un pas lourd
+Comme si chaque pied pesait sur lui
+
+Sèche tes pleurs, sèche tes pleurs
+J't'en prie sèche tes pleurs
+
+Y'a 15 jours est parti
+Celui qu'elle voulait pour longtemps
+Est parti celui
+Dont elle souhaite la mort maintenant
+Qu'il crève, mieux, qu'il souffre
+Qu'une fille le largue par-dessus bord
+Que dans ses larmes comme moi s'étouffe
+Que le sud de la fille lui fasse du nord
+
+Sèche tes pleurs, sèche tes pleurs
+J't'en prie sèche tes pleurs
+
+À qui veut bien l'entendre
+Elle en dit du mal autant qu'elle peut
+Le con, le chien, l'salaud
+Pas de gentillesse, pas d'souvenir tendre
+Et pleure et pleure encore
+Qu'avec toutes les larmes qui tombent
+J'ai pensé calmer mes remords
+Et fournir en eau le tiers monde
+
+Sèche tes pleurs, sèche tes pleurs
+J't'en prie sèche tes pleurs
+Sèche tes pleurs, sèche tes pleurs
+J't'en prie sèche tes pleurs
+
+Qui j'vois c't après-midi?
+Son pauvre diable tout aviné
+Je l'aime et j'm'ennuie
+Pourquoi tu vas pas la r'trouver?
+Et je m'disais tout bas
+Vas-y elle se meurt de te revoir
+Cours-y me rendre service à moi
+Boucher l'affluent d'la mer Noire
+
+Sèche tes pleurs, sèche tes pleurs
+J't'en prie sèche tes pleurs
+Sèche tes pleurs, sèche tes pleurs
+J't'en prie sèche tes pleurs
+Sèche tes pleurs, sèche tes pleurs
+Sèche tes pleurs ma soeur
+Sèche tes pleurs ma soeur
 
 ## DANIEL BÉLANGER : LES DEUX PRINTEMPS
 
@@ -477,26 +629,67 @@ G  D  E
 G  D  E
 ```
 
-## DANIEL BÉLANGER : JOLI CAHOS
+### Paroles
 
-```
-todo
-```
+Ses yeux sont deux printemps qui m'font sourire et ça m'fait rire
+Ses joues sont des torrents, les miennes s'y baignent, mais encore pire
+Son coeur est une fête, le mien ne veut plus en sortir
+Elle est la plus belle saison de ma vie
+La plus belle saison de ma vie
 
-## ELBOW
+C'est un tourbillon, un grand vertige complètement doux
+On dit qu'en haute voltige on peut tomber et s'rompre le cou
+C'est pas mon premier vol, arrêtez, bande de jaloux
+C'est la plus belle saison de ma vie
+La plus belle saison de ma vie
 
-### THE BONES OF YOU
+Nos heures sont des rivières qui coulent en une folle frénésie
+L'amour est liquide clair et nos deux corps sont amphibies
+La Terre est un brasier, mais pour un moment l'oublier
+C'est la plus belle saison de ma vie
+La plus belle saison de ma vie
+
+Qu'elle ne plaise à personne, ni du visage ni de l'esprit
+Restez en votre automne, l'été tout l'an me fait plus envie
+Persuadez-vous de mes deux yeux fermés, j'affirme en toute cécité
+T'es la plus belle saison de ma vie
+La plus belle saison de ma vie
+
+Hé, na-na-na, na-na
+
+Oh! y a toujours des noirceurs pour assombrir quelques beautés
+Des êtres qui ont peur qui veulent vous en contaminer
+Me protéger des loups, moi qui n'en compte que des amis
+T'es la plus belle saison de ma vie
+T'es la plus belle saison de ma vie
+
+Nous serons vieux et frêles, peut-être même séparés
+Nos têtes pêle-mêle incapables et usées
+Mais aujourd'hui je t'aime, aujourd'hui pour l'éternité
+T'es la plus belle saison de ma vie
+La plus belle saison de ma vie
+
+La-la-la-la, la-la
+Ouh-na-na, ouh-na-na, na
+Ouh-oh-oh
+Ouh
+
+## TOFIX ELBOW : THE BONES OF YOU
 
 ```
 CAPO 3
-E7  (056400)
-A-6 (034200)
-             E7
+G7  (056400)
+Cm6 (034200)
+
+             G7
 So I'm there
-A-6
+Cm6                    G7
 Charging around with a juggernaut brow
+Cm6                    G7
 Overdraft speeches and deadlines to make
+Cm6                       G7
 Cramming commitments like cats in a sack
+Cm6                  G7
 Telephone burn and a purposeful gait
 
 When out of a doorway, the tentacles stretch
@@ -539,7 +732,7 @@ And I'm five years ago
 And three thousand miles away
 ```
 
-### The Fix
+## TOFIX ELBOW : The Fix
 
 ```
 Cm (x02210)
@@ -626,23 +819,13 @@ Cause the fix, the fix is in
 | Cm     |
 ```
 
-## JEAN LELOUP
-
-### ISABELLE
+## TODO JEAN LELOUP : ISABELLE
 
 ```
 TODO
 ```
 
-### WILLIE
-
-```
-TODO
-```
-
-## KARKWA
-
-### LE PYROMANE
+## KARKWA : LE PYROMANE
 
 ```
 C         G    A             E
@@ -672,17 +855,13 @@ Tu prieras pour que toutes mes veines se rallument encore
 Tu pourras dire que je t'aime, que je t'aime à mort, à mort
 ```
 
-## LOUIS-JEAN CORMIER
-
-### L’ASCENSEUR
+## LOUIS-JEAN CORMIER : L’ASCENSEUR
 
 ```
 TODO
 ```
 
-## PHIL BRACH
-
-### CRYSTEL
+## PHIL BRACH : CRYSTEL
 
 ```
 Capo:2nd fret
@@ -721,3 +900,39 @@ Dans mon inconscient
 Tu flottes tout le temps
 Dans mon angle mort
 ```
+
+## TODO DANIEL BÉLANGER : JOLI CAHOS
+
+```
+todo
+```
+
+## TODO DANIEL BÉLANGER : Intouchable et immortel
+
+```
+todo
+```
+
+## TODO DANIEL BÉLANGER : La folie en quatre
+
+```
+todo
+```
+
+### TODO JEAN LELOUP : WILLIE
+
+```
+TODO
+```
+
+## TODO GAINSBOURG : LA JAVANAISE
+
+## TODO GAINSBOURG : COULEUR CAFÉ
+
+## TODO VIGNAULT : GENS DU PAYS
+
+## TODO PIERRE LAPOINTE : DE GLACE
+
+## TODO ARIANE MOFFAT : JE RETOURNE À MONTRÉAL
+
+## TODO LISA LEBLANCCITY SLICKERS AND COUNTRY BOYS
