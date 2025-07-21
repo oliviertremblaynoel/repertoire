@@ -18,16 +18,17 @@
   - [PAROLES](#paroles-4)
 - [JEAN LELOUP : ISABELLE](#jean-leloup--isabelle)
   - [PAROLES](#paroles-5)
+- [JEAN LELOUP : WILLIE](#jean-leloup--willie)
+  - [PAROLES](#paroles-6)
 - [KARKWA : LE PYROMANE](#karkwa--le-pyromane)
 - [PHIL BRACH : CRYSTEL](#phil-brach--crystel)
 - [GAINSBOURG : LA JAVANAISE](#gainsbourg--la-javanaise)
-  - [PAROLES](#paroles-6)
+  - [PAROLES](#paroles-7)
 - [GAINSBOURG : COULEUR CAFÉ](#gainsbourg--couleur-caf%C3%89)
 - [{TOADD} LOUIS-JEAN CORMIER : L’ASCENSEUR](#toadd-louis-jean-cormier--lascenseur)
 - [TODO DANIEL BÉLANGER : JOLI CAHOS](#todo-daniel-b%C3%89langer--joli-cahos)
 - [TODO DANIEL BÉLANGER : Intouchable et immortel](#todo-daniel-b%C3%89langer--intouchable-et-immortel)
 - [TODO DANIEL BÉLANGER : La folie en quatre](#todo-daniel-b%C3%89langer--la-folie-en-quatre)
-  - [TODO JEAN LELOUP : WILLIE](#todo-jean-leloup--willie)
 - [TODO VIGNAULT : GENS DU PAYS](#todo-vignault--gens-du-pays)
 - [TODO PIERRE LAPOINTE : DE GLACE](#todo-pierre-lapointe--de-glace)
 - [TODO ARIANE MOFFAT : JE RETOURNE À MONTRÉAL](#todo-ariane-moffat--je-retourne-%C3%80-montr%C3%89al)
@@ -1242,6 +1243,298 @@ L'Amour est une sale affaire
 L'Amour est une sale affaire
 ```
 
+## JEAN LELOUP : WILLIE
+
+```
+NO CAPO
+
+F#m (244222)
+E   (022100)
+B   (224442)
+C#m (446654)
+
+|F#m  |E B | 4x
+
+[C1]
+            F#m
+Les chiens aboient
+        E      B
+le train passe
+         F#m
+C'est la nuit
+                  E B
+pas loin de minuit
+      F#m
+Les étoiles sont magnifiques
+            E
+le ciel est noir
+      B
+de ce noir bleu
+        F#m
+que l'on voit
+Quand on est triste
+                E B
+ou bien joyeux
+
+[V1]
+            F#m
+Les chiens aboient
+      E
+Et Willie
+        B        F#m
+le vieux Willie écrit:
+
+
+À toi, ma bouteille de whisky,
+   E        B
+je lègue ma tristesse
+              F#m   E B
+et mes ennuis
+
+  F#m
+À toi, ma bouteille de whisky,
+    E
+je lègue mes fuckin' soucis;
+B                 F#m   E B
+  j'ai raté ma vie
+
+F#m
+  Ce n'était semble-t-il
+                      E     B
+qu'une question de secondes
+F#m
+  Elle tient qu'à un fil
+                    E     B
+notre place dans ce monde
+
+C#m
+  Au détour d'une peine,
+                B  F#m
+je me suis égaré
+C#m
+  Si loin qu'on se souvienne,
+                      B  F#m
+ma mémoire est cassée
+C#m
+  Mes amours étaient belles,
+                        B F#m
+mais tout me les rappelle
+C#m
+  Encore le labyrinthe
+                        B F#m
+le destin qui m'esquinte
+
+[C2]
+            F#m
+Les chiens aboient
+        E      B
+le train passe
+         F#m
+C'est la nuit
+                  E B
+pas loin de minuit
+      F#m
+Les étoiles sont magnifiques
+            E
+le ciel est noir
+      B
+de ce noir bleu
+        F#m
+que l'on voit
+Quand on est triste
+                E B
+ou bien joyeux
+
+[V2]
+F#m
+  Ne soyez pas trop tristes
+                  E     B
+pour la fin de ma piste
+F#m
+  Tous mes os me font mal,
+                      E
+ils m'attaquent en chacals
+      B
+en combat inégal
+
+C#m
+  Un peuple de démons
+                  B   F#
+de fantômes en sommeil
+                   C#m
+Se cacherait-il au fond
+de toutes mes bouteilles?
+        B
+Je suis si vieux
+      F#m
+et où sont mes petites vieilles?
+C#m
+  Pour ma part, il me tarde
+                B   F#
+de partir en voyage
+C#m
+  Quitter cette famille
+                    B     F#m
+de terreurs qui fourmillent
+
+[C3]
+           F#m
+Les chiens aboient
+        E      B
+le train passe
+         F#m
+C'est la nuit
+                  E B
+pas loin de minuit
+      F#m
+Les étoiles sont magnifiques
+            E
+le ciel est noir
+      B
+de ce noir bleu
+        F#m
+que l'on voit
+Quand on est triste
+                E B
+ou bien joyeux
+
+[B1]
+E             F#m
+  Au loin les flammes,
+A     C#      E
+  au loin les flammes,
+            F#m
+au loin les flammes,
+A    C#       E
+  au loin les flammes
+Au loin les...
+
+[V3]
+      F#m
+Et au vent qui emmènera
+      E                   B
+la fumée de ma cabane en bois
+      F#m
+Je lègue ma philosophie
+              E                 B
+et aussi toutes mes idées de génie
+      F#m
+Et enfin à toi,
+le passant qui passera,
+      E                 B
+je te lègue ma Ford Nova
+          F#m
+Je te préviens tout de suite:
+       E            B
+l'amour n'existe pas
+F#m           E         B
+  Au loin les flammes,
+F#m           E       B
+  au loin les flammes
+```
+
+### PAROLES
+
+```
+Les chiens aboient
+le train passe
+C'est la nuit
+pas loin de minuit
+Les étoiles sont magnifiques
+le ciel est noir
+de ce noir bleu
+que l'on voit
+Quand on est triste
+ou bien joyeux
+
+Les chiens aboient
+Et Willie
+le vieux Willie écrit:
+
+À toi, ma bouteille de whisky,
+je lègue ma tristesse
+et mes ennuis
+
+À toi, ma bouteille de whisky,
+je lègue mes fuckin' soucis;
+j'ai raté ma vie
+
+Ce n'était semble-t-il
+qu'une question de secondes
+Elle tient qu'à un fil
+notre place dans ce monde
+
+Au détour d'une peine,
+je me suis égaré
+Si loin qu'on se souvienne,
+ma mémoire est cassée
+
+Mes amours étaient belles,
+mais tout me les rappelle
+Encore le labyrinthe
+le destin qui m'esquinte
+
+Les chiens aboient
+le train passe
+C'est la nuit
+pas loin de minuit
+Les étoiles sont magnifiques
+le ciel est noir
+de ce noir bleu
+que l'on voit
+Quand on est triste
+ou bien joyeux
+
+Ne soyez pas trop tristes
+pour la fin de ma piste
+Tous mes os me font mal,
+ils m'attaquent en chacals
+en combat inégal
+
+Un peuple de démons
+de fantômes en sommeil
+Se cacherait-il au fond
+de toutes mes bouteilles?
+Je suis si vieux
+et où sont mes petites vieilles?
+
+Pour ma part, il me tarde
+de partir en voyage
+Quitter cette famille
+de terreurs qui fourmillent
+
+Les chiens aboient
+le train passe
+C'est la nuit
+pas loin de minuit
+Les étoiles sont magnifiques
+le ciel est noir
+de ce noir bleu
+que l'on voit
+Quand on est triste
+ou bien joyeux
+
+Au loin les flammes,
+au loin les flammes,
+au loin les flammes,
+au loin les flammes
+Au loin les...
+
+Et au vent qui emmènera
+la fumée de ma cabane en bois
+Je lègue ma philosophie
+et aussi toutes mes idées de génie
+
+Et enfin à toi,
+le passant qui passera,
+je te lègue ma Ford Nova
+Je te préviens tout de suite:
+l'amour n'existe pas
+
+Au loin les flammes,
+au loin les flammes
+```
+
 ## KARKWA : LE PYROMANE
 
 ```
@@ -1494,6 +1787,52 @@ Le temps d'une chanson
 
 ## GAINSBOURG : COULEUR CAFÉ
 
+```
+NO CAPO
+C   (335553)
+G7  (353433)
+  C      G7
+|:x-xxx-xx|-x-xx-xx:|
+
+J'aime ta couleur café
+Tes cheveux café
+Ta gorge café
+J'aime quand pour moi, tu danses
+Alors j'entends murmurer
+Tous tes bracelets
+Jolis bracelets
+À tes pieds, ils se balancent
+
+Couleur café
+Que j'aime ta couleur café
+
+C'est quand même fou l'effet
+L'effet que ça fait
+De te voir rouler
+Ainsi des yeux et des hanches
+Si tu fais comme le café
+Rien qu'à m'énerver
+Rien qu'à m'exciter
+Ce soir, la nuit sera blanche
+
+Couleur café
+Que j'aime ta couleur café
+
+L'amour sans philosopher
+C'est comme le café
+Très vite passé
+Mais que veux-tu que j'y fasse?
+On en a marre de café
+Et c'est terminé
+Pour tout oublier
+On attend que ça se tasse
+
+Couleur café
+Que j'aime ta couleur café
+Couleur café
+Que j'aime ta couleur café
+```
+
 ## {TOADD} LOUIS-JEAN CORMIER : L’ASCENSEUR
 
 ```
@@ -1516,12 +1855,6 @@ todo
 
 ```
 todo
-```
-
-### TODO JEAN LELOUP : WILLIE
-
-```
-TODO
 ```
 
 ## TODO VIGNAULT : GENS DU PAYS
