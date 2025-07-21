@@ -6,21 +6,21 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [LES COLOCS : DÉDÉ](#les-colocs--d%C3%89d%C3%89)
-  - [Paroles](#paroles)
-- [LES COLOCS : JUSTE UNE PETITE NUITE](#les-colocs--juste-une-petite-nuite)
-  - [Paroles](#paroles-1)
-- [DANIEL BÉLANGER : SÈCHES TES PLEURS](#daniel-b%C3%89langer--s%C3%88ches-tes-pleurs)
-  - [Paroles](#paroles-2)
-- [DANIEL BÉLANGER : LES DEUX PRINTEMPS](#daniel-b%C3%89langer--les-deux-printemps)
-  - [Paroles](#paroles-3)
-- [ELBOW : THE BONES OF YOU](#elbow--the-bones-of-you)
-- [TOFIX ELBOW : The Fix](#tofix-elbow--the-fix)
   - [PAROLES](#paroles)
-- [JEAN LELOUP : ISABELLE](#jean-leloup--isabelle)
+- [LES COLOCS : JUSTE UNE PETITE NUITE](#les-colocs--juste-une-petite-nuite)
   - [PAROLES](#paroles-1)
+- [DANIEL BÉLANGER : SÈCHES TES PLEURS](#daniel-b%C3%89langer--s%C3%88ches-tes-pleurs)
+  - [PAROLES](#paroles-2)
+- [DANIEL BÉLANGER : LES DEUX PRINTEMPS](#daniel-b%C3%89langer--les-deux-printemps)
+  - [PAROLES](#paroles-3)
+- [ELBOW : THE BONES OF YOU](#elbow--the-bones-of-you)
+- [ELBOW : The Fix](#elbow--the-fix)
+  - [PAROLES](#paroles-4)
+- [JEAN LELOUP : ISABELLE](#jean-leloup--isabelle)
+  - [PAROLES](#paroles-5)
 - [KARKWA : LE PYROMANE](#karkwa--le-pyromane)
-- [LOUIS-JEAN CORMIER : L’ASCENSEUR](#louis-jean-cormier--lascenseur)
 - [PHIL BRACH : CRYSTEL](#phil-brach--crystel)
+- [{TOADD} LOUIS-JEAN CORMIER : L’ASCENSEUR](#toadd-louis-jean-cormier--lascenseur)
 - [TODO DANIEL BÉLANGER : JOLI CAHOS](#todo-daniel-b%C3%89langer--joli-cahos)
 - [TODO DANIEL BÉLANGER : Intouchable et immortel](#todo-daniel-b%C3%89langer--intouchable-et-immortel)
 - [TODO DANIEL BÉLANGER : La folie en quatre](#todo-daniel-b%C3%89langer--la-folie-en-quatre)
@@ -136,7 +136,7 @@ Chasser les démons qui rentrent dans ta tête!
 Hé!
 ```
 
-### Paroles
+### PAROLES
 
 ```
 Juste en bas d'chez moi
@@ -275,7 +275,7 @@ fais-moé accroire que chu pas clairé
 |B |Em |
 ```
 
-### Paroles
+### PAROLES
 
 ```
 J'sais ben qu't'étais pas faite pour moé
@@ -422,7 +422,7 @@ Sèche tes pleurs ma sœur
 Gmaj7 (100230)
 ```
 
-### Paroles
+### PAROLES
 
 ```
 J'ai jamais vu une fille
@@ -637,7 +637,7 @@ G  D  E
 G  D  E
 ```
 
-### Paroles
+### PAROLES
 
 ```
 Ses yeux sont deux printemps qui m'font sourire et ça m'fait rire
@@ -737,7 +737,7 @@ And I'm five years ago
 And three thousand miles away
 ```
 
-## TOFIX ELBOW : The Fix
+## ELBOW : The Fix
 
 ```
 CAPO 3
@@ -1015,25 +1015,34 @@ L'Amour est une sale affaire
 ## KARKWA : LE PYROMANE
 
 ```
+[V1]
 C         G    A             E
 Prends-le pas, prends-le pas mal
 Je suis creux dans la spirale
 Abus de butane, vapeurs de kérosène
 Pyromane jusqu'au fond des veines
+
+[V2]
 Coup d'éclat, le dernier appel
 Sur le toit de la chapelle
 J'ouvrirai les gaz et traverserai les flammes
 Dans l'extase, l'odeur du drame
+
+[C1]
 Dm               F       Bb                F
 Lumière bleue de février sur tes larmes de cire
 Figée devant le brasier, nu-pieds dans le givre
 Tu prieras pour que toutes mes veines se rallument encore
 Tu pourras dire que je t'aime, que je t'aime
 à mort, à mort
+
+[V3]
 Rouge démon, rouge mercure
 Deux tisons dans ma figure
 Tu éteins mes rages, me sors de l'entonnoir
 Tu éclaires mes idées noires, tu m'éclaires
+
+[C2]
 Lumière bleue de février sur tes larmes de cire
 Figée devant le brasier, nu-pieds dans le givre
 Tu prieras pour que toutes mes veines se rallument encore
@@ -1042,50 +1051,77 @@ Tu prieras pour que toutes mes veines se rallument encore
 Tu pourras dire que je t'aime, que je t'aime à mort, à mort
 ```
 
-## LOUIS-JEAN CORMIER : L’ASCENSEUR
-
-```
-TODO
-```
-
 ## PHIL BRACH : CRYSTEL
 
 ```
 Capo:2nd fret
-Intro: Em Emmaj7 Em7 Em6 C Bm11 A7 A7sus A7
-       Em Emmaj7 Em7 Em6 C Bm11 A7 A7sus A7
-Em Emmaj7   Em7
-   Crystel
-Em6           C              Bm11
-Tu reviens toujours au moment
-A7   A7sus      A7
-où j’t’espérais pus
-Tes ailes
-Au premier battement sont venues boucher ma vue
-C        D
-Mais moi, entre deux buvards
-Em Emmaj7 Em7 Em6
-C                   D
-    Pour passer le temps, ben j’t’attends plus fort
-Em Emmaj7 Em7 Em6
-C                    D
-   En souhaitant que ta silhouette s’évapore
-Em               A              Am
-       Parmi les enfants sourds pis les rois morts
-                    G                           F#
-Qui volent dans ton sang, J’te retrouve tout le temps
 
+F#m     (022000)
+F#mmaj7 (021000)
+F#m7    (020000)
+F#m6    (042000)
+D       (032010)
+E       (x00232)
+C#m11   (x20220)
+B       (x02220)
+Bsus4   (x02230)
+Bm      (x02210)
+A       (320003)
+G#7      (242322)
+
+[Intro]
+F#m F#mmaj7 F#m7 F#m6 D C#m11 B Bsus B
+F#m F#mmaj7 F#m7 F#m6 D C#m11 B Bsus B
+
+[V1]
+F#m F#mmaj7   F#m7
+   Crystel
+F#m6           D              C#m11
+Tu reviens toujours au moment
+      B            Bsus4 B
+où j’t’espérais pus
+F#m F#mmaj7   F#m7
+    Tes ailes
+F#m6              D                C#m11
+  Au premier battement sont venues boucher ma vue
+
+D        E
+Mais moi, entre deux buvards
+F#m F#mmaj7 F#m7 F#m6
+D                  E
+    Pour passer le temps, ben j’t’attends plus fort
+F#m F#mmaj7 F#m7 F#m6
+D                    E
+   En souhaitant que ta silhouette s’évapore
+
+[C1]
+F#m               B              Bm
+       Parmi les enfants sourds pis les rois morts
+                    A                           G#7
+Qui volent dans ton sang, J’te retrouve tout le temps
 Dans mon angle mort
+
+[V2]
 Tes yeux
 ne vieilliront jamais
 Mes mains
 s’éloignent à chaque essai
+
 Mais toi, pendant que tu dors
 Le sommeil te berce, y te garde le phare
-Entre tes deux oreilles même pas l’ombre d’un remords         Malgré les faux clins d’oeil, les shots de fort
+Entre tes deux oreilles même pas l’ombre d’un remords
+
+[C2]
+Malgré les faux clins d’oeil, les shots de fort
 Dans mon inconscient
 Tu flottes tout le temps
 Dans mon angle mort
+```
+
+## {TOADD} LOUIS-JEAN CORMIER : L’ASCENSEUR
+
+```
+TODO
 ```
 
 ## TODO DANIEL BÉLANGER : JOLI CAHOS
