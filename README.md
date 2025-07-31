@@ -35,6 +35,11 @@
 - [TODO PIERRE LAPOINTE : DE GLACE](#todo-pierre-lapointe--de-glace)
 - [TODO ARIANE MOFFAT : JE RETOURNE À MONTRÉAL](#todo-ariane-moffat--je-retourne-%C3%80-montr%C3%89al)
 - [TODO LISA LEBLANC : Why does it feel](#todo-lisa-leblanc--why-does-it-feel)
+- [TRAD : Il était un petit homme](#trad--il-%C3%A9tait-un-petit-homme)
+- [TRAD : URSULE](#trad--ursule)
+- [TRAD : À LA CLAIRE FONTAINE](#trad--%C3%80-la-claire-fontaine)
+- [SELF : PLÉNITUDE](#self--pl%C3%89nitude)
+- [SELF : OIZYS](#self--oizys)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -1673,7 +1678,7 @@ Dans mon angle mort
 NO CAPO
 A     (002220)
 Amaj7 (002120)
-Bm    (002120)
+Bm    (224432)
 E     (022100)
 E6    (022120)
 
@@ -1703,7 +1708,7 @@ C#         C#7    F#m
 En dansant la javanaise
 D    Dm     A
 Nous nous aimions
-F#7
+F#7         B7
 Le temps d'une chanson
 
 [V2]
@@ -1910,6 +1915,19 @@ Oh, I’ve been here two days
 And it feels like forever
 
 [Guitar solo] TODO
+                    Eb
+D|--------|--2-0---|-|-|-|
+A|----0-2-|3-----2-|-|-|-|
+E|--------|--------|-|-|-|
+
+           Bbm        Eb
+E|--------|--22--22|
+B|--------|--11--11|
+G|--------|--22--22|
+D|--------|--22--22|
+A|----2---|--00--00|
+E|--------|3200--00|
+
 
 [V3]
 Someone get me outta here
@@ -1999,3 +2017,40 @@ todo
 ## TODO ARIANE MOFFAT : JE RETOURNE À MONTRÉAL
 
 ## TODO LISA LEBLANC : Why does it feel
+
+## TRAD : Il était un petit homme
+
+## TRAD : URSULE
+
+## TRAD : À LA CLAIRE FONTAINE
+
+## SELF : PLÉNITUDE
+
+```
+A6add2 V1 (004200)
+B6maj7#11/A V1 (004240)
+B6maj7#11/A V2 (004204)
+Dmaj7/A        (000220)
+
+Amaj7 (007654)
+A13  (5432)
+
+A6        (002222)
+B6/A      (004444)
+A6add2 V2 (007677)
+A6add2 V3 (0 0 11 11 12 14)
+
+```
+
+## SELF : OIZYS
+
+```
+Am6 (5x455x)
+Dm6 (10 x 9 10 10 x)
+
+Abm6  (4x344x)
+Gm6   (3x233x)
+E7b9  (074740)
+
+Anx
+```
